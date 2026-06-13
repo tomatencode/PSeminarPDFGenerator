@@ -12,11 +12,12 @@ from reportlab.platypus import (
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_JUSTIFY
 
-# ── Colour palette (matching the Planspiele Rollenkarte style) ─────────────────
-BLUE       = HexColor('#5B8EC4')   # title colour
-ORANGE     = HexColor('#E87800')   # section-header colour
-GRAY       = HexColor('#888888')   # page-header / rule colour
-TABLE_DARK = HexColor("#35619B")   # info-table header background
+# ── Colour palette ─────────────────────────────────────────────────────────────
+TITLE_COLOUR    = HexColor('#5B8EC4')
+SECTION_HEADER  = HexColor("#096381")
+GRAY            = HexColor("#6A6A6A")
+TABLE_HEADER_BG = HexColor("#358D9B")
+ROW_LIGHT       = HexColor("#EBF8F9")
 
 # ── Page geometry ──────────────────────────────────────────────────────────────
 PAGE_W, PAGE_H = A4
@@ -39,20 +40,20 @@ def _styles():
     )
     title = ParagraphStyle(
         'CountryTitle',
-        fontSize=26,
-        textColor=BLUE,
-        fontName='Helvetica',
-        spaceBefore=4,
-        spaceAfter=14,
-        leading=32,
+        fontSize=32,
+        textColor=TITLE_COLOUR,
+        fontName='Helvetica-Bold',
+        spaceBefore=0,
+        spaceAfter=6,
+        leading=36,
     )
     section = ParagraphStyle(
         'SectionTitle',
         fontSize=10,
-        textColor=ORANGE,
+        textColor=SECTION_HEADER,
         fontName='Helvetica-Bold',
-        spaceBefore=10,
-        spaceAfter=4,
+        spaceBefore=0,
+        spaceAfter=0,
     )
     body = ParagraphStyle(
         'Body',
@@ -132,22 +133,41 @@ def _build_info_table(info: dict, styles) -> Table | None:
         ('RIGHTPADDING',  (0, 0), (-1, -1), 5),
         ('VALIGN',        (0, 0), (-1, -1), 'TOP'),
         # outer border
-        ('BOX',           (0, 0), (-1, -1), 0.5, GRAY),
+        ('BOX',           (0, 0), (-1, -1), 1, GRAY),
         # horizontal lines between rows
-        ('INNERGRID',     (0, 0), (-1, -1), 0.3, GRAY),
+        ('INNERGRID',     (0, 0), (-1, -1), 1, GRAY),
     ]
 
     if header_text:
         style_cmds += [
             # header spans both columns
             ('SPAN',            (0, 0), (1, 0)),
-            ('BACKGROUND',      (0, 0), (1, 0), TABLE_DARK),
+            ('BACKGROUND',      (0, 0), (1, 0), TABLE_HEADER_BG),
             # no divider inside the header cell
-            ('INNERGRID',       (0, 0), (1, 0), 0, TABLE_DARK),
+            ('INNERGRID',       (0, 0), (1, 0), 0, TABLE_HEADER_BG),
         ]
+
+    # zebra stripes on data rows
+    start_row = 1 if header_text else 0
+    for i in range(len(rows_data)):
+        if i % 2 == 1:
+            style_cmds.append(('BACKGROUND', (0, start_row + i), (-1, start_row + i), ROW_LIGHT))
 
     tbl.setStyle(TableStyle(style_cmds))
     return tbl
+
+
+def _draw_footer(canvas, doc):
+    """Draw a thin rule and centred page number in the bottom margin."""
+    canvas.saveState()
+    y_line = MARGIN_V - 0.5 * cm
+    canvas.setStrokeColor(GRAY)
+    canvas.setLineWidth(0.8)
+    canvas.line(MARGIN_H, y_line, PAGE_W - MARGIN_H, y_line)
+    canvas.setFont('Helvetica', 10)
+    canvas.setFillColor(GRAY)
+    canvas.drawCentredString(PAGE_W / 2, y_line - 0.40 * cm, str(doc.page))
+    canvas.restoreState()
 
 
 def build_story(data: dict, flags_dir: str) -> list:
@@ -163,12 +183,9 @@ def build_story(data: dict, flags_dir: str) -> list:
         info       = country_data.get('info', {})
         paragraphs = country_data.get('paragraphs', [])
 
-        # ── page header + rule ────────────────────────────────────────────────
-        story.append(Paragraph(f'M3: Rollenkarte {country_name}', page_header_style))
-        story.append(HRFlowable(width='100%', thickness=0.75, color=GRAY, spaceAfter=10))
-
         # ── full-width country title ──────────────────────────────────────────
         story.append(Paragraph(country_name, title_style))
+        story.append(HRFlowable(width='100%', thickness=2, color=TITLE_COLOUR, spaceAfter=12))
 
         # ── info table (left) + flag (right) ─────────────────────────────────
         flag_path   = os.path.join(flags_dir, flag_file)
@@ -204,7 +221,23 @@ def build_story(data: dict, flags_dir: str) -> list:
             title = para.get('title', '').strip()
             text  = para.get('text',  '').strip()
             if title:
-                story.append(Paragraph(title, section_style))
+                accent = Table(
+                    [[' ', Paragraph(title, section_style)]],
+                    colWidths=[0.25 * cm, CONTENT_W - 0.25 * cm],
+                )
+                accent.setStyle(TableStyle([
+                    ('BACKGROUND',    (0, 0), (0, 0), SECTION_HEADER),
+                    ('TOPPADDING',    (0, 0), (-1, -1), 3),
+                    ('BOTTOMPADDING', (0, 0), (-1, -1), 3),
+                    ('LEFTPADDING',   (0, 0), (0, 0), 0),
+                    ('RIGHTPADDING',  (0, 0), (0, 0), 0),
+                    ('LEFTPADDING',   (1, 0), (1, 0), 6),
+                    ('RIGHTPADDING',  (1, 0), (1, 0), 0),
+                    ('VALIGN',        (0, 0), (-1, -1), 'MIDDLE'),
+                ]))
+                accent.spaceBefore = 12
+                accent.spaceAfter  = 4
+                story.append(accent)
             if text:
                 story.append(Paragraph(text, body_style))
 
@@ -225,7 +258,7 @@ def generate_pdf(json_path: str, output_path: str, flags_dir: str) -> None:
         topMargin=MARGIN_V,
         bottomMargin=MARGIN_V,
     )
-    doc.build(build_story(data, flags_dir))
+    doc.build(build_story(data, flags_dir), onFirstPage=_draw_footer, onLaterPages=_draw_footer)
     print(f'PDF written to {output_path}')
 
 
