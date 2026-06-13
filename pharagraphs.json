@@ -1,283 +1,4 @@
 {
-    "USA": {
-        "flag": "Flag_of_United_States-512x269.png",
-        "info": {
-            "header": "Ständiges Mitglied des UN-Sicherheitsrats | G7",
-            "rows": {
-                "Standort": "Nordamerika",
-                "Bevölkerung": "340 Millionen",
-                "Hauptstadt": "Washington D.C.",
-                "Sprache": "Englisch",
-                "KI-Relevanz": "OpenAI, Google DeepMind, Meta AI, Microsoft"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Die USA sind die führende KI-Nation der Welt und Heimat der bedeutendsten KI-Unternehmen: OpenAI, Google, Anthropic, Microsoft und Apple prägen die globale KI-Entwicklung maßgeblich. Als ständiges Mitglied des UN-Sicherheitsrats besitzen die USA erheblichen Einfluss auf internationale Regelungen. Präsident Biden erließ 2023 eine wegweisende „Executive Order on AI Safety\", die erste nationale Rahmenvorgabe dieser Art. Im geopolitischen Wettbewerb um KI-Führerschaft – insbesondere mit China – sehen die USA technologische Überlegenheit als strategischen Imperativ. Wichtige Partner in Fragen der KI-Governance sind die G7-Staaten, das Vereinigte Königreich, Kanada und Australien (Five Eyes/AUKUS)."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Die USA haben die Bletchley-Erklärung von 2023 mitunterzeichnet und sich dem Hiroshima-Prozess der G7 verpflichtet. Einem verbindlichen internationalen Gremium wie dem IKISR stehen sie jedoch skeptisch gegenüber: Ein solches Organ dürfe weder die Wettbewerbsfähigkeit amerikanischer Unternehmen beschränken noch die nationale Sicherheit gefährden. Die USA befürworten stattdessen einen auf freiwilligen Standards basierenden Ansatz mit Best-Practice-Empfehlungen. Sollte der IKISR eingerichtet werden, bestehen die USA auf einer Sitzverteilung, die die technologische Kapazität der Mitgliedsstaaten widerspiegelt, sowie auf einem starken US-amerikanischen Mitspracherecht – idealerweise einem De-facto-Vetorecht bei sicherheitsrelevanten Entscheidungen."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Die USA verfügen über eine bedeutende Kreativwirtschaft (Hollywood, Verlagswesen, Musikindustrie), die ein starkes Interesse an der Durchsetzung von Urheberrechten bei Trainingsdaten hat. Gleichzeitig argumentieren die großen Tech-Konzerne, dass die Nutzung frei zugänglicher Daten zum Training unter die Doktrin des „Fair Use\" falle. Die USA werden sich für ein ausgewogenes Urheberrechtsregime einsetzen, das Rechtssicherheit für Entwickler schafft, ohne Urheber vollständig zu übergehen. Im Datenschutz fehlt den USA bislang ein bundeseinheitliches Gesetz; internationale Verpflichtungen werden nur in abgeschwächter Form akzeptiert."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Das US-Militär betreibt umfangreiche Forschung und Entwicklung im Bereich militärischer KI – darunter autonome Drohnen und KI-gestützte Aufklärungssysteme. Ein vollständiges Verbot autonomer Waffensysteme lehnen die USA ab, da sie darin einen unzumutbaren militärischen Nachteil gegenüber Akteuren sehen, die sich nicht an solche Verbote halten würden. Sie befürworten stattdessen das Prinzip „meaningful human control\": Bei tödlichen Entscheidungen muss stets ein Mensch im Entscheidungsprozess beteiligt sein. Internationale Kontrollmechanismen unterstützen die USA nur, wenn diese nicht in die Souveränität und militärische Einsatzfähigkeit eingreifen."
-            }
-        ]
-    },
-    "China": {
-        "flag": "Flag_of_Peoples_Republic_of_China-512x341.png",
-        "info": {
-            "header": "Ständiges Mitglied des UN-Sicherheitsrats | G20",
-            "rows": {
-                "Standort": "Ostasien",
-                "Bevölkerung": "1,4 Milliarden",
-                "Hauptstadt": "Peking",
-                "Sprache": "Mandarin",
-                "KI-Relevanz": "Baidu, Alibaba, Huawei, ByteDance, DeepSeek"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "China ist nach den USA die zweitstärkste KI-Nation der Welt und investiert massiv in KI-Forschung und -Industrie. Staatliche Champions wie Baidu, Alibaba, Huawei, ByteDance und vorallem das Unternehmen DeepSeek prägen die globale KI-Landschaft. Die KI-Strategie ist eng mit den nationalen Zielen der Kommunistischen Partei verknüpft; KI gilt als Schlüsseltechnologie zur wirtschaftlichen Modernisierung und militärischen Stärkung bis 2030. Als ständiges Mitglied des UN-Sicherheitsrats ist China bestrebt, internationale KI-Normen mitzugestalten und eine Dominanz des Westens in der Technologieregulierung zu verhindern."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "China begrüßt prinzipiell die Schaffung internationaler KI-Sicherheitsstandards – es hat selbst umfangreiche nationale KI-Regulierungen erlassen (Verordnung über generative KI, 2023) und die Bletchley-Erklärung mitunterzeichnet. Einem IKISR stimmt China jedoch nur zu, wenn dieser multipolar zusammengesetzt ist und keine westliche Mehrheit besitzt. China besteht auf dem Grundsatz technologischer Souveränität: Kein internationales Gremium darf Einblick in sicherheitsrelevante nationale KI-Systeme verlangen. Die Zertifizierungspflicht für KI-Systeme lehnt China ab, sofern sie ausländischen Stellen Zugang zu proprietären chinesischen Systemen ermöglichen würde."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "China verfügt über ein umfassendes Datenschutzgesetz (PIPL, 2021) und sieht sich als führend im Umgang mit KI-bezogenen Datenfragen. In der Praxis steht das chinesische Datenschutzregime im Dienst des Staates: Der behördliche Zugriff auf persönliche Daten ist weitgehend möglich. China wird internationale Datenschutzverpflichtungen nur akzeptieren, sofern sie den staatlichen Informationszugang nicht einschränken. Im Urheberrecht unterstützt China grundsätzlich Transparenz bei Trainingsdaten, betrachtet einen internationalen Entschädigungsfonds jedoch als potenzielle Beschränkung für die Entwicklung chinesischer KI-Modelle."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "China betreibt intensive Forschung zu militärischer KI, darunter autonome Drohnen, KI-gestützte Cyberoperationen und Überwachungssysteme. Ein Verbot autonomer Waffensysteme lehnt China ab und verweist auf das Recht zur Selbstverteidigung sowie auf nationalstaatliche Souveränität in Sicherheitsfragen. Internationale Kontrollmechanismen werden nur akzeptiert, wenn diese für alle Staaten gleichermaßen gelten – einschließlich westlicher Militärmächte. China wird versuchen, die Definition „autonomer Waffensysteme\" so eng zu fassen, dass die eigenen Systeme nicht darunter fallen."
-            }
-        ]
-    },
-    "Indien": {
-        "flag": "Flag_of_India-512x341.png",
-        "info": {
-            "header": "G20-Mitglied | Bevölkerungsreichstes Land der Welt",
-            "rows": {
-                "Standort": "Südasien",
-                "Bevölkerung": "1,44 Milliarden",
-                "Hauptstadt": "Neu-Delhi",
-                "Sprache": "Hindi, Englisch (22 Amtssprachen)",
-                "KI-Relevanz": "Infosys, TCS, Wipro; IndiaAI Mission"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Indien ist die bevölkerungsreichste Nation der Welt und verfügt über eine der bedeutendsten IT-Industrien global, mit Konzernen wie Infosys, TCS und Wipro sowie einem dynamischen Start-up-Ökosystem in Bangalore und Hyderabad. Die indische Regierung betreibt mit der „IndiaAI Mission\" eine ambitionierte nationale KI-Strategie. Indien verfolgt außenpolitisch strategische Autonomie: als Mitglied der G20, der BRICS-Gruppe und des Commonwealth ohne feste Bindung an einen der großen Machtblöcke. In der KI-Regulierung sieht sich Indien als Interessenvertreter des Globalen Südens."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Indien unterstützt die Einrichtung des IKISR grundsätzlich, sofern dieser die Vielfalt der Mitgliedsstaaten widerspiegelt und nicht von wenigen Technologienationen dominiert wird. Entwicklungsländer müssen im Rat gleichberechtigt vertreten sein. Indien warnt ausdrücklich davor, dass zu strenge KI-Standards die technologische Entwicklung ärmerer Länder behindern und bestehende Ungleichgewichte zwischen Industrie- und Entwicklungsländern verfestigen könnten. Zertifizierungspflichten sollen daher in der Umsetzung flexibel und für Entwicklungsländer erschwinglich sein."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Indien setzt sich dafür ein, dass der internationale Entschädigungsfonds auch Urheber aus dem Globalen Süden berücksichtigt, deren Inhalte in großem Umfang für KI-Modelle verwendet werden, ohne dass sie davon profitieren. Den Herkunftsnachweis für Trainingsdaten befürwortet Indien als Instrument gegen kulturellen Datenneokolonialismus. Im Datenschutz hat Indien 2023 ein eigenes Datenschutzgesetz (DPDP Act) verabschiedet; es befürwortet das Recht auf Dateneinsicht und -löschung, möchte jedoch keine Bestimmungen akzeptieren, die den staatlichen Zugriff für Sicherheitszwecke einschränken."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Indien ist bei der Frage autonomer Waffensysteme gespalten: Einerseits fordert eine aktive Drohnen- und Rüstungsindustrie Handlungsfreiheit, andererseits befürwortet Indien traditionell humanitäres Völkerrecht und Abrüstungsverhandlungen. Indien wird einen Kompromissvorschlag unterstützen, der klare Mindestanforderungen für menschliche Kontrolle bei tödlichen Entscheidungen festlegt, ohne ein vollständiges Verbot autonomer Systeme zu fordern. Sanktionsmechanismen sollen nach Meinung Indiens nur durch den UN-Sicherheitsrat – nicht durch den IKISR – verhängt werden können."
-            }
-        ]
-    },
-    "Kanada": {
-        "flag": "Flag_of_Canada-512x256.png",
-        "info": {
-            "header": "G7-Mitglied | Weltweites KI-Forschungszentrum",
-            "rows": {
-                "Standort": "Nordamerika",
-                "Bevölkerung": "40 Millionen",
-                "Hauptstadt": "Ottawa",
-                "Sprache": "Englisch, Französisch",
-                "KI-Relevanz": "Mila (Bengio), Vector Institute (Hinton), CIFAR"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Kanada ist Heimat einiger der einflussreichsten KI-Forscher der Welt: Yoshua Bengio (Université de Montréal) und Geoffrey Hinton (ehemals University of Toronto) gelten als „Väter des Deep Learning\" und Pioniere der modernen KI. Forschungszentren wie Mila in Montreal und das Vector Institute in Toronto machen Kanada zu einem globalen Referenzstandort für KI-Forschung. Mit dem vorgeschlagenen „Artificial Intelligence and Data Act\" (AIDA) verfolgt Kanada ein eigenes umfassendes KI-Regulierungsvorhaben. Als G7-Mitglied war Kanada aktiv am Hiroshima-KI-Prozess beteiligt und gilt als enger US-Verbündeter mit eigenem regulierungspolitischem Kurs."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Kanada ist einer der stärksten Befürworter einer internationalen KI-Governance-Architektur und unterstützt die Einrichtung des IKISR ausdrücklich. Yoshua Bengio, einer der weltweit bekanntesten Mahner vor KI-Risiken, gilt als Referenzfigur der kanadischen Position. Kanada befürwortet die Einbeziehung unabhängiger Experten, Ethikkommissionen und zivilgesellschaftlicher Organisationen in den Rat. Jährliche Risikoberichte und das internationale Prüf- und Zertifizierungssiegel werden als unverzichtbare Transparenzinstrumente unterstützt."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Kanada verfügt mit dem PIPEDA-Gesetz über ein etabliertes Datenschutzrecht und plant dessen Modernisierung (Bill C-27). Kanada tritt für starke Datenschutzrechte ein, unterstützt die verpflichtende Einholung von Einwilligungen sowie das Recht auf Datenlöschung und befürwortet datensparende Entwicklungsprinzipien. Im Urheberrecht unterstützt Kanada den Herkunftsnachweis für Trainingsdaten und den internationalen Entschädigungsfonds – insbesondere zum Schutz der kanadischen Kultur- und Kreativwirtschaft."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Kanada unterstützt Bemühungen zur Beschränkung autonomer Waffensysteme und ist aktives Mitglied der Campaign to Stop Killer Robots sowie der UN-Expertengruppe (GGE) zu autonomer Waffentechnologie. Kanada befürwortet ein Verbot vollautonomer letaler Systeme, bei denen Menschen keinerlei Kontrolle über tödliche Entscheidungen mehr ausüben. Es setzt sich dafür ein, dass die Kontrollmechanismen auch nicht-staatliche Akteure erfassen und Sanktionen bei Verstößen wirksam verhängt werden können."
-            }
-        ]
-    },
-    "Russland": {
-        "flag": "Flag_of_Russia-512x341.png",
-        "info": {
-            "header": "Ständiges Mitglied des UN-Sicherheitsrats | G20",
-            "rows": {
-                "Standort": "Osteuropa / Nordasien",
-                "Bevölkerung": "145 Millionen",
-                "Hauptstadt": "Moskau",
-                "Sprache": "Russisch",
-                "KI-Relevanz": "Sberbank KI, Yandex; staatliche Rüstungs-KI"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Russland ist ständiges Mitglied des UN-Sicherheitsrats und eine bedeutende Militärmacht, die intensiv in KI für Verteidigungs- und Überwachungszwecke investiert. Unternehmen wie Sberbank und Yandex entwickeln zivile KI-Anwendungen, während der staatliche Rüstungssektor KI-gestützte Systeme für Drohnen und Cyberoperationen erprobt. Russlands außenpolitische Linie ist von Misstrauen gegenüber westlich dominierten Institutionen geprägt. Der russische Einmarsch in die Ukraine hat Russland weitgehend aus internationalen Technologiegremien isoliert; umso mehr ist Russland bestrebt, seine Mitgestaltungsmacht über den UN-Rahmen zu wahren."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Russland steht der Einrichtung des IKISR skeptisch gegenüber und wird dessen Schaffung allenfalls dann akzeptieren, wenn er keine Durchgriffsrechte auf nationale KI-Systeme besitzt und die ständigen Mitglieder des UN-Sicherheitsrats eine herausgehobene Stellung einnehmen. Russland lehnt jegliche Überprüfung oder Zertifizierung seiner militärischen oder sicherheitsrelevanten KI-Systeme durch ein internationales Gremium kategorisch ab. Die Souveränität der Staaten in der Entwicklung und im Einsatz von KI ist für Russland ein nicht verhandelbares Grundprinzip, das in der Resolution ausdrücklich verankert werden muss."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Russland hat nach dem Ausscheiden westlicher Plattformen eigene digitale Ökosysteme aufgebaut (VKontakte, RuTube, Gosuslugi) und verfolgt das Ziel weitgehender Datensouveränität. Internationale Datenschutzverpflichtungen werden nur akzeptiert, sofern sie die staatliche Nutzung von Daten für Sicherheitszwecke nicht einschränken. Einem internationalen Entschädigungsfonds für Urheber steht Russland neutral gegenüber, sofern er nicht als Hebel für westliche Sanktionen missbraucht werden kann."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Ein Verbot autonomer Waffensysteme lehnt Russland grundsätzlich ab. Präsident Putin erklärte, derjenige, der die KI beherrsche, werde die Welt beherrschen. Im Kontext des Ukraine-Krieges setzt Russland selbst auf KI-gestützte Drohnen und Lenkraketen sowie auf KI-gestützte Desinformationskampagnen. Russland wird versuchen, Klausel 5 des Resolutionsentwurfs durch Änderungsanträge so zu schwächen, dass sie keine bindende Wirkung entfaltet. Notfalls kann Russland von seinem Vetorecht im UN-Sicherheitsrat Gebrauch machen, sofern eine verbindliche Resolution den Sicherheitsrat passieren müsste."
-            }
-        ]
-    },
-    "Israel": {
-        "flag": "Flag_of_Israel-512x371.png",
-        "info": {
-            "header": "OECD-Mitglied | Start-Up Nation",
-            "rows": {
-                "Standort": "Naher Osten",
-                "Bevölkerung": "9,5 Millionen",
-                "Hauptstadt": "Jerusalem",
-                "Sprache": "Hebräisch, Arabisch",
-                "KI-Relevanz": "Check Point, Mobileye, CyberArk; IDF KI-Einheiten"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Israel ist als „Start-Up Nation\" bekannt und verfügt über eine der innovativsten Technologiewirtschaften der Welt: Unternehmen wie Check Point, CyberArk und Mobileye haben globale Maßstäbe in KI-gestützter Cybersicherheit gesetzt. Die israelischen Streitkräfte (IDF) zählen zu den am stärksten KI-integrierten Militärorganisationen weltweit. Israels Außenpolitik wird maßgeblich vom Sicherheitsimperativ geleitet – die Bedrohung durch staatliche und nicht-staatliche Akteure prägt alle sicherheitspolitischen Abwägungen. Enge Partner sind die USA und westliche Demokratien; gleichzeitig bestehen Spannungen mit großen Teilen der arabischen Welt sowie vor dem Hintergrund des Gaza-Konflikts mit Teilen der internationalen Gemeinschaft."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Israel unterstützt grundsätzlich die Entwicklung internationaler KI-Sicherheitsstandards für zivile Anwendungen und ist an einer Stärkung der Cybersicherheitsanforderungen an KI-Systeme interessiert. Einem IKISR, der auch sicherheitsrelevante und militärische KI-Systeme überprüfen oder zertifizieren darf, steht Israel jedoch ablehnend gegenüber. Nationale Sicherheitsinteressen müssen als ausdrücklicher Ausnahmetatbestand in der Resolution verankert werden. Israel wird sich für technische Sicherheitsstandards im zivilen Bereich einsetzen, auf eine starke Sicherheitsausnahme bestehen."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Israel verfügt über ein modernes Datenschutzrecht und befürwortet grundsätzlich den Schutz personenbezogener Daten. In der Praxis steht für Israel jedoch der Sicherheitsvorbehalt an erster Stelle: Datenschutz darf nachrichtendienstliche und sicherheitsbehördliche Arbeit nicht behindern. Den Herkunftsnachweis für Trainingsdaten und den Entschädigungsfonds für Urheber unterstützt Israel aus eigenem wirtschaftlichen Interesse – die israelische Kreativwirtschaft und Softwareindustrie haben ein Interesse an klar definierten Eigentumsrechten."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Klausel 5 ist für Israel der kritischste Punkt des Resolutionsentwurfs. Die IDF setzt KI vielfältig ein: KI-gestützte Zielerkennung, autonome Drohnen und die Iron-Dome-Raketenabwehr sind Teil des militärischen Kernbestands. Israel lehnt ein Verbot autonomer Waffensysteme ab und argumentiert, dass menschliche Kontrolle bei zeitkritischen Abwehrsituationen – etwa Raketenabwehr – technisch nicht realisierbar sei. Israel wird Änderungsanträge einbringen, die Verteidigungssysteme und Systeme in extremen Bedrohungslagen explizit aus dem Anwendungsbereich des Verbots ausnehmen."
-            }
-        ]
-    },
-    "Deutschland": {
-        "flag": "Flag_of_Germany-512x307(1).png",
-        "info": {
-            "header": "EU-Mitglied | G7-Mitglied",
-            "rows": {
-                "Standort": "Mitteleuropa",
-                "Bevölkerung": "84 Millionen",
-                "Hauptstadt": "Berlin",
-                "Sprache": "Deutsch",
-                "KI-Relevanz": "DFKI, SAP, Siemens; Mitgestalter des EU AI Act"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Deutschland ist Gründungsmitglied der Europäischen Union und verfolgt KI-Regulierung in enger Abstimmung mit seinen EU-Partnern. Als treibende Kraft hinter dem EU AI Act (2024) – dem weltweit ersten umfassenden KI-Gesetz – bringt Deutschland umfangreiche Regulierungserfahrung in die Verhandlungen ein. Das Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI) zählt zu den bedeutendsten KI-Instituten weltweit; Unternehmen wie SAP, Siemens und der Automobilsektor setzen KI intensiv ein. Die historische Erfahrung mit staatlicher Massenüberwachung im 20. Jahrhundert prägt Deutschlands Datenschutzpolitik nachhaltig."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Deutschland ist einer der stärksten Unterstützer des IKISR und tritt für eine umfassende Ausgestaltung des Rates ein. Die Sicherheitsstandards des IKISR sollen mit dem risikobasierten Ansatz des EU AI Act kompatibel sein und auf dessen Erkenntnissen aufbauen. Transparenz, Rechenschaftspflicht sowie die Einbeziehung zivilgesellschaftlicher Organisationen und unabhängiger Ethikkommissionen sind für Deutschland zentrale Anforderungen. Das jährliche internationale Risikoberichtssystem wird als unverzichtbares Frühwarninstrument befürwortet."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Deutschland steht für eine der stärksten Datenschutztraditionen der Welt und war Triebkraft hinter der Datenschutz-Grundverordnung (DSGVO). Es unterstützt die Datensparsamkeitspflicht, die verpflichtende Einwilligung sowie das Recht auf Auskunft und Löschung uneingeschränkt. Im Urheberrecht setzt sich Deutschland für den Herkunftsnachweis bei Trainingsdaten und den internationalen Entschädigungsfonds ein – im Sinne der deutschen Verlags-, Musik- und Kreativbranche, die von unkompensierter KI-Nutzung ihrer Inhalte betroffen ist."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Deutschland unterstützt das Verbot vollautonomer letaler Waffensysteme und hat sich in multilateralen Foren wiederholt für einen verbindlichen internationalen Vertrag ausgesprochen. Die menschliche Kontrolle über lebensbeendende Entscheidungen ist für Deutschland ein humanitär-ethisches Grundprinzip, das nicht verhandelbar ist. Deutschland wird in den Verhandlungen eine Koalition gleichgesinnter EU-Mitgliedstaaten und demokratischer Partner für eine starke Klausel 5 zusammenführen und sich für wirksame Sanktionen bei Verstößen einsetzen."
-            }
-        ]
-    },
-    "Frankreich": {
-        "flag": "Flag_of_France-512x341(1).png",
-        "info": {
-            "header": "Ständiges Mitglied des UN-Sicherheitsrats | G7",
-            "rows": {
-                "Standort": "Westeuropa",
-                "Bevölkerung": "68 Millionen",
-                "Hauptstadt": "Paris",
-                "Sprache": "Französisch",
-                "KI-Relevanz": "Mistral AI, INRIA; digitale Souveränität Europas"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Frankreich ist ständiges Mitglied des UN-Sicherheitsrats und eine der führenden KI-Forschernationen Europas. Mit Mistral AI besitzt Frankreich ein international wettbewerbsfähiges europäisches KI-Unternehmen; das Forschungsinstitut INRIA prägt die europäische KI-Wissenschaft. Präsident Macron hat KI zur strategischen Priorität erklärt und die Förderung europäischer KI-Champions vorangetrieben. Frankreich hat maßgeblich an der Entstehung des EU AI Act mitgewirkt und ist als Kulturnation mit bedeutenden Interessen in Film, Literatur und Musik besonders auf den Schutz geistigen Eigentums bedacht."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Frankreich unterstützt den IKISR als wichtiges internationales Governance-Instrument. Es besteht darauf, dass Europa – insbesondere im Rahmen der EU – als Einheit im IKISR vertreten ist und ein eigenständiges Mitspracherecht besitzt. Die Einbeziehung von Ethikkommissionen und unabhängigen Experten ist für Frankreich wesentlich. Frankreich befürwortet zudem, dass die Standards des IKISR Fragen der digitalen Souveränität berücksichtigen und nicht zur Festigung von US-amerikanischer oder chinesischer Technologiedominanz beitragen."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Der Schutz von Urheberrechten bei Trainingsdaten ist für Frankreich ein zentrales Anliegen. Die französische Kreativwirtschaft – Kino, Musik, Literatur – ist besonders stark vom unlizenzierten Training von KI-Modellen auf urheberrechtlich geschützten Inhalten betroffen. Frankreich befürwortet den Herkunftsnachweis, die verpflichtende Lizenzierung und den internationalen Entschädigungsfonds nachdrücklich. Im Datenschutz setzt sich Frankreich für die vollständige Umsetzung der DSGVO-Prinzipien auf internationaler Ebene ein."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Frankreich verfügt über ein eigenständiges Nuklearpotenzial und verfolgt eine aktivistische Außen- und Verteidigungspolitik. Es unterstützt das Prinzip der menschlichen Kontrolle über letale KI-Entscheidungen, lehnt jedoch ein absolutes Verbot aller autonomen Systeme ab, da dies Frankreichs Verteidigungskapazitäten einschränken würde. Frankreich wird sich für eine differenzierte Regelung einsetzen, die vollautonome tödliche Systeme ohne jede menschliche Aufsicht verbietet, defensive und teilautonome Systeme mit menschlicher Überwachung aber ausdrücklich zulässt."
-            }
-        ]
-    },
-    "Vereinigtes Königreich": {
-        "flag": "Flag_of_United_Kingdom-512x256.png",
-        "info": {
-            "header": "Ständiges Mitglied des UN-Sicherheitsrats | G7",
-            "rows": {
-                "Standort": "Nordwesteuropa",
-                "Bevölkerung": "68 Millionen",
-                "Hauptstadt": "London",
-                "Sprache": "Englisch",
-                "KI-Relevanz": "DeepMind, Arm Holdings; AI Safety Institute (2023)"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Das Vereinigte Königreich hat sich nach dem Brexit als eigenständiger Akteur in der internationalen KI-Politik positioniert: 2023 richtete die britische Regierung das weltweit erste AI Safety Institute ein und veranstaltete den bahnbrechenden AI Safety Summit auf Schloss Bletchley Park. DeepMind (Teil von Google), Arm Holdings und zahlreiche KI-Start-ups machen London zu einem der wichtigsten KI-Zentren der Welt. Das Vereinigte Königreich verfolgt einen „pro-innovation\"-Ansatz – als bewussten Gegenentwurf zum stärker regulierenden EU AI Act – und möchte sich als internationaler Regulierungsstandort positionieren."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Das Vereinigte Königreich ist grundsätzlich offen für ein internationales KI-Governance-Gremium und bewirbt sich möglicherweise als Sitzstaat für das IKISR-Sekretariat. Es betont, dass der IKISR Innovation nicht behindern darf. Das Vereinigte Königreich befürwortet einen risikobasierten Ansatz, bei dem besonders kritische KI-Systeme einer stärkeren Regulierung unterliegen; verbindliche Zertifizierungspflichten sollen auf Hochrisiko-Anwendungen beschränkt bleiben. Die Erfahrungen des britischen AI Safety Institute sollen in die Arbeit des IKISR einfließen."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Das Vereinigte Königreich hat eine bedeutende Kreativ- und Verlagsbranche und befürwortet Transparenzanforderungen bei Trainingsdaten sowie den Entschädigungsfonds für Urheber. Im Datenschutz hat Großbritannien nach dem Brexit das britische GDPR (UK GDPR) weitgehend übernommen und setzt auf eine pragmatisch-innovationsfreundliche Anwendung. Es unterstützt das Einwilligungsprinzip und das Recht auf Datenlöschung, möchte aber den Rahmen nicht unnötig restriktiv gestalten."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Das Vereinigte Königreich verfügt über moderne militärische KI-Programme und steht einem vollständigen Verbot autonomer Waffensysteme skeptisch gegenüber. Es unterstützt das Prinzip der menschlichen Kontrolle bei tödlichen Entscheidungen, möchte aber Spielraum für teilautonome Verteidigungs- und Aufklärungssysteme behalten. Als Gründungsmitglied der NATO und enger US-Verbündeter wird sich das Vereinigte Königreich bei Klausel 5 eng mit Washington abstimmen."
-            }
-        ]
-    },
     "Australien": {
         "flag": "Flag_of_Australia-512x256.png",
         "info": {
@@ -340,158 +61,65 @@
             }
         ]
     },
-    "Uruguay": {
-        "flag": "Flag_of_Uruguay-512x341.png",
+    "China": {
+        "flag": "Flag_of_Peoples_Republic_of_China-512x341.png",
         "info": {
-            "header": "Mercosur-Mitglied | Digitaler Vorreiter Lateinamerikas",
+            "header": "Ständiges Mitglied des UN-Sicherheitsrats | G20",
             "rows": {
-                "Standort": "Südamerika",
-                "Bevölkerung": "3,5 Millionen",
-                "Hauptstadt": "Montevideo",
-                "Sprache": "Spanisch",
-                "KI-Relevanz": "Nationales Datenschutzgesetz; Plan Ceibal (digitale Bildung)"
+                "Standort": "Ostasien",
+                "Bevölkerung": "1,4 Milliarden",
+                "Hauptstadt": "Peking",
+                "Sprache": "Mandarin",
+                "KI-Relevanz": "Baidu, Alibaba, Huawei, ByteDance, DeepSeek"
             }
         },
         "paragraphs": [
             {
                 "title": "1. Internationale Beziehungen",
-                "text": "Uruguay ist ein kleines Land mit einer für die Region ungewöhnlich stabilen Demokratie und einer fortschrittlichen Digitalpolitik. Es war eines der ersten lateinamerikanischen Länder mit einem Datenschutzgesetz und verfolgt eine engagierte Digital-Governance-Strategie. Mit dem Programm „Plan Ceibal\" hat Uruguay landesweite digitale Bildung pioniert. Uruguay ist aktives Mitglied der Vereinten Nationen und des Mercosur-Handelsblocks und bekannt für seinen prinzipientreuen und konstruktiven Beitrag in multilateralen Verhandlungen."
+                "text": "China ist nach den USA die zweitstärkste KI-Nation der Welt und investiert massiv in KI-Forschung und -Industrie. Staatliche Champions wie Baidu, Alibaba, Huawei, ByteDance und vorallem das Unternehmen DeepSeek prägen die globale KI-Landschaft. Die KI-Strategie ist eng mit den nationalen Zielen der Kommunistischen Partei verknüpft; KI gilt als Schlüsseltechnologie zur wirtschaftlichen Modernisierung und militärischen Stärkung bis 2030. Als ständiges Mitglied des UN-Sicherheitsrats ist China bestrebt, internationale KI-Normen mitzugestalten und eine Dominanz des Westens in der Technologieregulierung zu verhindern."
             },
             {
                 "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Uruguay unterstützt die Einrichtung des IKISR ausdrücklich und betont die Notwendigkeit, auch kleine und mittelgroße Staaten in die Governance-Strukturen einzubinden. Ein rein von Großmächten dominierter Rat würde den Interessen der Mehrheit der UN-Mitgliedsstaaten nicht gerecht werden. Uruguay befürwortet die Einbeziehung zivilgesellschaftlicher Organisationen und unabhängiger Experten sowie die Veröffentlichung jährlicher Berichte als Instrument demokratischer Rechenschaftspflicht."
+                "text": "China begrüßt prinzipiell die Schaffung internationaler KI-Sicherheitsstandards – es hat selbst umfangreiche nationale KI-Regulierungen erlassen (Verordnung über generative KI, 2023) und die Bletchley-Erklärung mitunterzeichnet. Einem IKISR stimmt China jedoch nur zu, wenn dieser multipolar zusammengesetzt ist und keine westliche Mehrheit besitzt. China besteht auf dem Grundsatz technologischer Souveränität: Kein internationales Gremium darf Einblick in sicherheitsrelevante nationale KI-Systeme verlangen. Die Zertifizierungspflicht für KI-Systeme lehnt China ab, sofern sie ausländischen Stellen Zugang zu proprietären chinesischen Systemen ermöglichen würde."
             },
             {
                 "title": "3. Urheberrecht und Datenschutz",
-                "text": "Uruguay verfügt über solide, international anerkannte Datenschutzgesetze und unterstützt die Datenschutzklauseln der Resolution vollumfänglich. Das Recht auf Dateneinsicht, -berichtigung und -löschung entspricht dem uruguayischen Datenschutzstandard. Urheberrechtliche Transparenz bei Trainingsdaten und der internationale Entschädigungsfonds werden befürwortet: Sie schützen kleine Kulturnationen vor unkompensierter Nutzung ihrer kreativen Werke durch multinationale KI-Konzerne."
+                "text": "China verfügt über ein umfassendes Datenschutzgesetz (PIPL, 2021) und sieht sich als führend im Umgang mit KI-bezogenen Datenfragen. In der Praxis steht das chinesische Datenschutzregime im Dienst des Staates: Der behördliche Zugriff auf persönliche Daten ist weitgehend möglich. China wird internationale Datenschutzverpflichtungen nur akzeptieren, sofern sie den staatlichen Informationszugang nicht einschränken. Im Urheberrecht unterstützt China grundsätzlich Transparenz bei Trainingsdaten, betrachtet einen internationalen Entschädigungsfonds jedoch als potenzielle Beschränkung für die Entwicklung chinesischer KI-Modelle."
             },
             {
                 "title": "4. KI in bewaffneten Konflikten",
-                "text": "Uruguay unterstützt ein Verbot autonomer Waffensysteme und internationale Kontrollmechanismen. Als Land ohne aktive militärische Konflikte und mit einer starken Tradition der UN-Friedensmissionen (u.a. MINUSTAH in Haiti) vertritt Uruguay eine konsequent humanitäre Linie: Tödliche Entscheidungen dürfen niemals allein von Algorithmen getroffen werden. Uruguay wird für eine starke und klar formulierte Klausel 5 eintreten und Sanktionen gegen Verstöße befürworten."
+                "text": "China betreibt intensive Forschung zu militärischer KI, darunter autonome Drohnen, KI-gestützte Cyberoperationen und Überwachungssysteme. Ein Verbot autonomer Waffensysteme lehnt China ab und verweist auf das Recht zur Selbstverteidigung sowie auf nationalstaatliche Souveränität in Sicherheitsfragen. Internationale Kontrollmechanismen werden nur akzeptiert, wenn diese für alle Staaten gleichermaßen gelten – einschließlich westlicher Militärmächte. China wird versuchen, die Definition „autonomer Waffensysteme\" so eng zu fassen, dass die eigenen Systeme nicht darunter fallen."
             }
         ]
     },
-    "Nigeria": {
-        "flag": "Flag_of_Nigeria-512x256.png",
+    "Deutschland": {
+        "flag": "Flag_of_Germany-512x307(1).png",
         "info": {
-            "header": "G20-Mitglied | Größte Volkswirtschaft Afrikas",
-            "rows": {
-                "Standort": "Westafrika",
-                "Bevölkerung": "220 Millionen",
-                "Hauptstadt": "Abuja",
-                "Sprache": "Englisch (500+ Lokalsprachen)",
-                "KI-Relevanz": "Paystack, Flutterwave, Andela; Silicon Lagoon Lagos"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Nigeria ist die bevölkerungsreichste Nation Afrikas und die größte afrikanische Volkswirtschaft. Lagos entwickelt sich zu einem bedeutenden Technologiezentrum – dem sogenannten „Silicon Lagoon\" – mit international bekannten Fintech-Start-ups wie Paystack und Flutterwave sowie dem IT-Talentförderungsunternehmen Andela. Nigeria ist Mitglied der Afrikanischen Union, der ECOWAS und des Commonwealth. Nigeria sieht sich als Interessenvertreter des afrikanischen Kontinents in internationalen Technologieverhandlungen und weist auf nachgewiesene Diskriminierung durch internationale KI-Systeme gegenüber afrikanischen Bevölkerungsgruppen hin – insbesondere bei Gesichtserkennung und algorithmischer Kreditvergabe."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Nigeria unterstützt den IKISR, fordert jedoch, dass afrikanische Staaten im Rat angemessen vertreten sind – idealerweise durch die Afrikanische Union als Verhandlungsblock. Die Standards des IKISR müssen auf globale Diversität ausgerichtet sein: KI-Systeme müssen auf ihre Leistung und Fairness gegenüber allen Bevölkerungsgruppen getestet werden, nicht nur gegenüber westlichen. Nigeria befürwortet die Einbeziehung afrikanischer zivilgesellschaftlicher Organisationen und die jährliche Risikoberichterstattung."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Nigeria setzt sich aktiv für die Berücksichtigung afrikanischer Inhalte im internationalen Entschädigungsfonds ein: Afrobeats, Nollywood und andere kulturelle Produktionen werden in KI-Trainingsdatensätzen häufig ohne Erlaubnis und ohne Vergütung verwendet. Den Herkunftsnachweis für Trainingsdaten betrachtet Nigeria als Schlüsselinstrument gegen Datenneokolonialismus. Im Datenschutz befürwortet Nigeria die Stärkung individueller Rechte und Einwilligungsanforderungen, die auch für Bevölkerungen mit begrenztem Datenzugang umsetzbar sind."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Nigeria ist mit regionalen Sicherheitsbedrohungen (Boko Haram, bewaffnete Gruppen im Norden und Nordosten) konfrontiert und setzt zunehmend KI-gestützte Überwachungstechnologien ein. Nigeria unterstützt grundsätzlich das Prinzip menschlicher Kontrolle bei tödlichen Entscheidungen, möchte jedoch Flexibilität für staatliche Sicherheitsoperationen gegen nicht-staatliche bewaffnete Gruppen. Es wird für einen Kompromisstext eintreten, der vollautonome Systeme ohne menschliche Aufsicht verbietet, ohne defensive staatliche Sicherheitsoperationen zu behindern."
-            }
-        ]
-    },
-    "Südafrika": {
-        "flag": "Flag_of_South_Africa-512x341.png",
-        "info": {
-            "header": "G20-Mitglied | BRICS-Mitglied",
-            "rows": {
-                "Standort": "Südliches Afrika",
-                "Bevölkerung": "60 Millionen",
-                "Hauptstadt": "Pretoria / Kapstadt",
-                "Sprache": "11 Amtssprachen (u.a. Zulu, Xhosa, Englisch)",
-                "KI-Relevanz": "POPIA (2021); AU KI-Strategie; 4IR-Initiative"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Südafrika ist die fortgeschrittenste Volkswirtschaft auf dem afrikanischen Kontinent und Mitglied der BRICS-Gruppe sowie der G20. Das Land verfügt über ein modernes Datenschutzgesetz (POPIA, 2021) und hat eine eigene KI-Strategie im Rahmen der Initiative „4IR\" (Fourth Industrial Revolution) formuliert. Südafrika arbeitet eng mit der Afrikanischen Union an einer kontinentweiten KI-Governance-Agenda zusammen. Historisch geprägt durch das Apartheid-Regime und dessen staatliche Massenüberwachung, ist Südafrika besonders sensibel gegenüber dem Missbrauch von KI für Diskriminierung und Überwachung."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Südafrika befürwortet die Einrichtung des IKISR und tritt – gemeinsam mit anderen afrikanischen Staaten – für eine starke afrikanische Repräsentation ein. Die Sicherheitsstandards des IKISR sollen Fragen der sozialen Gerechtigkeit, der Diskriminierungsfreiheit und der Zugänglichkeit für den Globalen Süden umfassen. Südafrika befürwortet die Vorlage jährlicher Berichte an die Generalversammlung sowie eine regelmäßige Überprüfungsklausel, um Standards an neue Entwicklungen anzupassen."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Südafrika unterstützt den Entschädigungsfonds für Urheber und den Herkunftsnachweis für Trainingsdaten. Das POPIA-konforme Datenschutzsystem Südafrikas deckt sich weitgehend mit den Anforderungen der Resolution; Südafrika wird sich für eine globale Anerkennung äquivalenter nationaler Datenschutzgesetze einsetzen, um Doppelregulierungen zu vermeiden. Die Stärkung der Rechte des Einzelnen gegenüber algorithmischen Entscheidungssystemen ist Südafrika ein besonderes Anliegen."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Angesichts seiner Geschichte als Friedensvermittler auf dem afrikanischen Kontinent und seiner Erfahrung mit staatlicher Unterdrückungstechnologie unterstützt Südafrika ein Verbot autonomer letaler Waffensysteme. Insbesondere im Kontext afrikanischer Konflikte, in denen KI-Drohnen zunehmend eingesetzt werden, befürwortet Südafrika starke Sanktionsmechanismen und internationale Kontrollinstanzen. Südafrika wird gemeinsam mit anderen afrikanischen Staaten eine einheitliche Position für Klausel 5 entwickeln."
-            }
-        ]
-    },
-    "Schweiz": {
-        "flag": "Flag_of_Switzerland-512x512.png",
-        "info": {
-            "header": "Dauerhaft neutraler Staat | Sitz int. Organisationen",
+            "header": "EU-Mitglied | G7-Mitglied",
             "rows": {
                 "Standort": "Mitteleuropa",
-                "Bevölkerung": "8,7 Millionen",
-                "Hauptstadt": "Bern",
-                "Sprache": "Deutsch, Französisch, Italienisch, Rätoromanisch",
-                "KI-Relevanz": "ETH Zürich, EPFL; nDSG (2023); WEF, IKRK in Genf"
+                "Bevölkerung": "84 Millionen",
+                "Hauptstadt": "Berlin",
+                "Sprache": "Deutsch",
+                "KI-Relevanz": "DFKI, SAP, Siemens; Mitgestalter des EU AI Act"
             }
         },
         "paragraphs": [
             {
                 "title": "1. Internationale Beziehungen",
-                "text": "Die Schweiz ist ein dauerhaft neutrales Land und Heimat zahlreicher internationaler Organisationen: das UN-Büro in Genf, das Internationale Komitee vom Roten Kreuz (IKRK), die Weltgesundheitsorganisation (WHO) und das Weltwirtschaftsforum (WEF) haben ihren Sitz in der Schweiz. Die ETH Zürich und die EPFL Lausanne zählen zu den weltweit führenden Forschungseinrichtungen für KI. Die Schweiz besitzt ein modernes Datenschutzrecht (nDSG, seit 2023) und betrachtet sich als neutraler Mittler zwischen den technologischen Großmächten."
+                "text": "Deutschland ist Gründungsmitglied der Europäischen Union und verfolgt KI-Regulierung in enger Abstimmung mit seinen EU-Partnern. Als treibende Kraft hinter dem EU AI Act (2024) – dem weltweit ersten umfassenden KI-Gesetz – bringt Deutschland umfangreiche Regulierungserfahrung in die Verhandlungen ein. Das Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI) zählt zu den bedeutendsten KI-Instituten weltweit; Unternehmen wie SAP, Siemens und der Automobilsektor setzen KI intensiv ein. Die historische Erfahrung mit staatlicher Massenüberwachung im 20. Jahrhundert prägt Deutschlands Datenschutzpolitik nachhaltig."
             },
             {
                 "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Die Schweiz unterstützt die Einrichtung des IKISR mit Nachdruck und bietet sich als Sitzstaat an: Genf wäre ein natürlicher Standort für den Rat, der bereits Heimat zahlreicher internationaler Normsetzungsgremien ist. Die Unabhängigkeit und Neutralität des IKISR ist für die Schweiz das entscheidende Qualitätsmerkmal: Der Rat muss frei von politischem Einfluss der Großmächte agieren und sowohl technische Expertise als auch ethische Perspektiven vereinen. Die Schweiz wird sich für starke institutionelle Unabhängigkeitsgarantien einsetzen."
+                "text": "Deutschland ist einer der stärksten Unterstützer des IKISR und tritt für eine umfassende Ausgestaltung des Rates ein. Die Sicherheitsstandards des IKISR sollen mit dem risikobasierten Ansatz des EU AI Act kompatibel sein und auf dessen Erkenntnissen aufbauen. Transparenz, Rechenschaftspflicht sowie die Einbeziehung zivilgesellschaftlicher Organisationen und unabhängiger Ethikkommissionen sind für Deutschland zentrale Anforderungen. Das jährliche internationale Risikoberichtssystem wird als unverzichtbares Frühwarninstrument befürwortet."
             },
             {
                 "title": "3. Urheberrecht und Datenschutz",
-                "text": "Die Schweiz unterstützt den Herkunftsnachweis für Trainingsdaten und den internationalen Entschädigungsfonds. Mit dem revidierten Datenschutzgesetz (nDSG) sind die schweizerischen Anforderungen weitgehend mit den EU-Standards kompatibel; die Schweiz wird für deren internationale Anerkennung eintreten. Datensparsamkeit und informierte Einwilligung sind Grundpfeiler der schweizerischen Datenschutzphilosophie, die sie auf internationaler Ebene verteidigt."
+                "text": "Deutschland steht für eine der stärksten Datenschutztraditionen der Welt und war Triebkraft hinter der Datenschutz-Grundverordnung (DSGVO). Es unterstützt die Datensparsamkeitspflicht, die verpflichtende Einwilligung sowie das Recht auf Auskunft und Löschung uneingeschränkt. Im Urheberrecht setzt sich Deutschland für den Herkunftsnachweis bei Trainingsdaten und den internationalen Entschädigungsfonds ein – im Sinne der deutschen Verlags-, Musik- und Kreativbranche, die von unkompensierter KI-Nutzung ihrer Inhalte betroffen ist."
             },
             {
                 "title": "4. KI in bewaffneten Konflikten",
-                "text": "Als dauerhaft neutrales Land und Depositar der Genfer Konventionen unterstützt die Schweiz das Verbot vollautonomer letaler Waffensysteme nachdrücklich. Das IKRK, mit Sitz in Genf, hat wiederholt auf die Unvereinbarkeit autonomer Waffentechnologien mit dem humanitären Völkerrecht hingewiesen. Die Schweiz wird für eine starke, klar formulierte Klausel 5 eintreten und die Schaffung eines wirksamen internationalen Kontrollmechanismus unter Einbeziehung des IKRK und humanitärer Experten befürworten."
-            }
-        ]
-    },
-    "Vereinigte Arabische Emirate": {
-        "flag": "Flag_of_United_Arab_Emirates-512x256.png",
-        "info": {
-            "header": "G20-Mitglied | Erster Staat mit KI-Minister (2017)",
-            "rows": {
-                "Standort": "Arabische Halbinsel",
-                "Bevölkerung": "10 Millionen",
-                "Hauptstadt": "Abu Dhabi",
-                "Sprache": "Arabisch",
-                "KI-Relevanz": "Falcon AI (TII), MBZUAI; UAE AI Strategy 2031"
-            }
-        },
-        "paragraphs": [
-            {
-                "title": "1. Internationale Beziehungen",
-                "text": "Die VAE sind ein globaler Vorreiter in der staatlichen KI-Politik: Als erstes Land der Welt ernannten sie 2017 einen eigenen Minister für Künstliche Intelligenz. Die nationale KI-Strategie 2031 zielt darauf ab, die VAE zu einem der führenden KI-Staaten weltweit zu machen. Technologiezentren in Dubai und Abu Dhabi sowie die Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) und das Falcon-Sprachmodell (Technology Innovation Institute) unterstreichen diesen Anspruch. Die VAE pflegen enge Wirtschaftsbeziehungen zu den USA, China und Europa und verfolgen eine pragmatische, wirtschaftsorientierte Außenpolitik."
-            },
-            {
-                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Die VAE unterstützen die Einrichtung des IKISR und befürworten internationale Standards als Grundlage für Vertrauen in KI-Systeme. Gleichzeitig betonen sie, dass Regulierung die globale KI-Innovation nicht ausbremsen darf. Als aufstrebende KI-Nation fordern die VAE eine Sitzverteilung im Rat, die nicht nur traditionelle Großmächte, sondern auch technologisch ambitionierte Schwellenländer und aufstrebende KI-Nationen berücksichtigt. Zertifizierungspflichten sind für die VAE akzeptabel, sofern sie auf klaren, praxisnahen Standards basieren."
-            },
-            {
-                "title": "3. Urheberrecht und Datenschutz",
-                "text": "Die VAE verfügen über ein modernes Datenschutzrecht (PDPL, 2021) und unterstützen Transparenz bei Trainingsdaten. Im Urheberrecht befürworten die VAE den Herkunftsnachweis, betonen aber, dass ein internationaler Entschädigungsfonds keine unverhältnismäßigen wirtschaftlichen Barrieren für aufstrebende KI-Nationen errichten darf. In Fragen der Privatsphäre gelten die VAE als weniger restriktiv als westliche Demokratien; sie werden moderate, praxistaugliche Datenschutzstandards befürworten."
-            },
-            {
-                "title": "4. KI in bewaffneten Konflikten",
-                "text": "Die VAE sind in regionale Konflikte involviert (u.a. Jemen) und setzen dabei KI-gestützte Drohnentechnologie ein. Ein striktes Verbot autonomer Waffensysteme lehnen sie ab und sprechen sich für ein Prinzip der „verantwortungsvollen KI-Nutzung\" im Militär aus, das nationale Souveränität und regionale Sicherheitsbedürfnisse respektiert. Die VAE werden sich für flexible Definitionen und nationale Ausnahmeregelungen in Klausel 5 einsetzen."
+                "text": "Deutschland unterstützt das Verbot vollautonomer letaler Waffensysteme und hat sich in multilateralen Foren wiederholt für einen verbindlichen internationalen Vertrag ausgesprochen. Die menschliche Kontrolle über lebensbeendende Entscheidungen ist für Deutschland ein humanitär-ethisches Grundprinzip, das nicht verhandelbar ist. Deutschland wird in den Verhandlungen eine Koalition gleichgesinnter EU-Mitgliedstaaten und demokratischer Partner für eine starke Klausel 5 zusammenführen und sich für wirksame Sanktionen bei Verstößen einsetzen."
             }
         ]
     },
@@ -526,34 +154,189 @@
             }
         ]
     },
-    "Ukraine": {
-        "flag": "Flag_of_Ukraine-512x341.png",
+    "Frankreich": {
+        "flag": "Flag_of_France-512x341(1).png",
         "info": {
-            "header": "EU-Kandidatenstaat | NATO-Beitrittskandidat",
+            "header": "Ständiges Mitglied des UN-Sicherheitsrats | G7",
             "rows": {
-                "Standort": "Osteuropa",
-                "Bevölkerung": "44 Millionen",
-                "Hauptstadt": "Kiew",
-                "Sprache": "Ukrainisch",
-                "KI-Relevanz": "Grammarly, GitLab (Gründer); KI im aktiven Kriegseinsatz"
+                "Standort": "Westeuropa",
+                "Bevölkerung": "68 Millionen",
+                "Hauptstadt": "Paris",
+                "Sprache": "Französisch",
+                "KI-Relevanz": "Mistral AI, INRIA; digitale Souveränität Europas"
             }
         },
         "paragraphs": [
             {
                 "title": "1. Internationale Beziehungen",
-                "text": "Die Ukraine befindet sich seit dem russischen Angriffskrieg vom Februar 2022 im aktiven Kriegszustand. Gleichzeitig verfügt die Ukraine über einen bedeutenden IT-Sektor – Gründer von Grammarly und GitLab sind Ukrainer – und hat sich zum Testfeld für den KI-Einsatz in bewaffneten Konflikten entwickelt. Die Ukraine nutzt KI-Technologie für Drohnennavigation, Gesichtserkennung, Aufklärung und Zielidentifikation, u.a. in Zusammenarbeit mit westlichen Technologiepartnern. Die Ukraine positioniert sich klar im demokratischen Westbündnis und strebt EU- und NATO-Mitgliedschaft an."
+                "text": "Frankreich ist ständiges Mitglied des UN-Sicherheitsrats und eine der führenden KI-Forschernationen Europas. Mit Mistral AI besitzt Frankreich ein international wettbewerbsfähiges europäisches KI-Unternehmen; das Forschungsinstitut INRIA prägt die europäische KI-Wissenschaft. Präsident Macron hat KI zur strategischen Priorität erklärt und die Förderung europäischer KI-Champions vorangetrieben. Frankreich hat maßgeblich an der Entstehung des EU AI Act mitgewirkt und ist als Kulturnation mit bedeutenden Interessen in Film, Literatur und Musik besonders auf den Schutz geistigen Eigentums bedacht."
             },
             {
                 "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Die Ukraine befürwortet den IKISR als Instrument zur Regulierung von KI-Risiken – insbesondere als Mittel zur Bekämpfung von KI-gestützter Desinformation und Propaganda, die Russland im Krieg massiv einsetzt. Eine unabhängige internationale Kontrollinstanz für KI-Risiken dient der ukrainischen Sicherheit. Die Ukraine besteht darauf, dass Staaten, die KI nachweislich für Angriffskriege einsetzen, von den Rechten und Privilegien des IKISR ausgeschlossen werden können."
+                "text": "Frankreich unterstützt den IKISR als wichtiges internationales Governance-Instrument. Es besteht darauf, dass Europa – insbesondere im Rahmen der EU – als Einheit im IKISR vertreten ist und ein eigenständiges Mitspracherecht besitzt. Die Einbeziehung von Ethikkommissionen und unabhängigen Experten ist für Frankreich wesentlich. Frankreich befürwortet zudem, dass die Standards des IKISR Fragen der digitalen Souveränität berücksichtigen und nicht zur Festigung von US-amerikanischer oder chinesischer Technologiedominanz beitragen."
             },
             {
                 "title": "3. Urheberrecht und Datenschutz",
-                "text": "Die Ukraine unterstützt den Herkunftsnachweis für Trainingsdaten und die Datenschutzprinzipien der Resolution. Ein besonderes Anliegen ist der Schutz vor KI-gestützten Deepfakes sowie der missbräuchlichen Nutzung von Bildern und personenbezogenen Daten ukrainischer Bürgerinnen und Bürger durch russische Behörden und Hacker. Der internationale Entschädigungsfonds sollte auch Schäden durch nicht-autorisierte Nutzung abdecken."
+                "text": "Der Schutz von Urheberrechten bei Trainingsdaten ist für Frankreich ein zentrales Anliegen. Die französische Kreativwirtschaft – Kino, Musik, Literatur – ist besonders stark vom unlizenzierten Training von KI-Modellen auf urheberrechtlich geschützten Inhalten betroffen. Frankreich befürwortet den Herkunftsnachweis, die verpflichtende Lizenzierung und den internationalen Entschädigungsfonds nachdrücklich. Im Datenschutz setzt sich Frankreich für die vollständige Umsetzung der DSGVO-Prinzipien auf internationaler Ebene ein."
             },
             {
                 "title": "4. KI in bewaffneten Konflikten",
-                "text": "Klausel 5 ist für die Ukraine die heikelste des Resolutionsentwurfs. Die Ukraine setzt selbst autonome und halbautonome Drohnensysteme zur Verteidigung ihres Territoriums ein und ist auf diese Technologie angewiesen. Ein vollständiges Verbot autonomer Waffensysteme würde die Verteidigungsfähigkeit der Ukraine gegenüber einem übermächtigen Angreifer einschränken. Die Ukraine wird eine Ausnahme für Verteidigungseinsätze gegen bewaffnete Aggression anstreben oder die Sanktionsklausel so ausgestalten, dass sie ausschließlich gegen angreifende Staaten gerichtet ist."
+                "text": "Frankreich verfügt über ein eigenständiges Nuklearpotenzial und verfolgt eine aktivistische Außen- und Verteidigungspolitik. Es unterstützt das Prinzip der menschlichen Kontrolle über letale KI-Entscheidungen, lehnt jedoch ein absolutes Verbot aller autonomen Systeme ab, da dies Frankreichs Verteidigungskapazitäten einschränken würde. Frankreich wird sich für eine differenzierte Regelung einsetzen, die vollautonome tödliche Systeme ohne jede menschliche Aufsicht verbietet, defensive und teilautonome Systeme mit menschlicher Überwachung aber ausdrücklich zulässt."
+            }
+        ]
+    },
+    "Indien": {
+        "flag": "Flag_of_India-512x341.png",
+        "info": {
+            "header": "G20-Mitglied | Bevölkerungsreichstes Land der Welt",
+            "rows": {
+                "Standort": "Südasien",
+                "Bevölkerung": "1,44 Milliarden",
+                "Hauptstadt": "Neu-Delhi",
+                "Sprache": "Hindi, Englisch (22 Amtssprachen)",
+                "KI-Relevanz": "Infosys, TCS, Wipro; IndiaAI Mission"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Indien ist die bevölkerungsreichste Nation der Welt und verfügt über eine der bedeutendsten IT-Industrien global, mit Konzernen wie Infosys, TCS und Wipro sowie einem dynamischen Start-up-Ökosystem in Bangalore und Hyderabad. Die indische Regierung betreibt mit der „IndiaAI Mission\" eine ambitionierte nationale KI-Strategie. Indien verfolgt außenpolitisch strategische Autonomie: als Mitglied der G20, der BRICS-Gruppe und des Commonwealth ohne feste Bindung an einen der großen Machtblöcke. In der KI-Regulierung sieht sich Indien als Interessenvertreter des Globalen Südens."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Indien unterstützt die Einrichtung des IKISR grundsätzlich, sofern dieser die Vielfalt der Mitgliedsstaaten widerspiegelt und nicht von wenigen Technologienationen dominiert wird. Entwicklungsländer müssen im Rat gleichberechtigt vertreten sein. Indien warnt ausdrücklich davor, dass zu strenge KI-Standards die technologische Entwicklung ärmerer Länder behindern und bestehende Ungleichgewichte zwischen Industrie- und Entwicklungsländern verfestigen könnten. Zertifizierungspflichten sollen daher in der Umsetzung flexibel und für Entwicklungsländer erschwinglich sein."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Indien setzt sich dafür ein, dass der internationale Entschädigungsfonds auch Urheber aus dem Globalen Süden berücksichtigt, deren Inhalte in großem Umfang für KI-Modelle verwendet werden, ohne dass sie davon profitieren. Den Herkunftsnachweis für Trainingsdaten befürwortet Indien als Instrument gegen kulturellen Datenneokolonialismus. Im Datenschutz hat Indien 2023 ein eigenes Datenschutzgesetz (DPDP Act) verabschiedet; es befürwortet das Recht auf Dateneinsicht und -löschung, möchte jedoch keine Bestimmungen akzeptieren, die den staatlichen Zugriff für Sicherheitszwecke einschränken."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Indien ist bei der Frage autonomer Waffensysteme gespalten: Einerseits fordert eine aktive Drohnen- und Rüstungsindustrie Handlungsfreiheit, andererseits befürwortet Indien traditionell humanitäres Völkerrecht und Abrüstungsverhandlungen. Indien wird einen Kompromissvorschlag unterstützen, der klare Mindestanforderungen für menschliche Kontrolle bei tödlichen Entscheidungen festlegt, ohne ein vollständiges Verbot autonomer Systeme zu fordern. Sanktionsmechanismen sollen nach Meinung Indiens nur durch den UN-Sicherheitsrat – nicht durch den IKISR – verhängt werden können."
+            }
+        ]
+    },
+    "Israel": {
+        "flag": "Flag_of_Israel-512x371.png",
+        "info": {
+            "header": "OECD-Mitglied | Start-Up Nation",
+            "rows": {
+                "Standort": "Naher Osten",
+                "Bevölkerung": "9,5 Millionen",
+                "Hauptstadt": "Jerusalem",
+                "Sprache": "Hebräisch, Arabisch",
+                "KI-Relevanz": "Check Point, Mobileye, CyberArk; IDF KI-Einheiten"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Israel ist als „Start-Up Nation\" bekannt und verfügt über eine der innovativsten Technologiewirtschaften der Welt: Unternehmen wie Check Point, CyberArk und Mobileye haben globale Maßstäbe in KI-gestützter Cybersicherheit gesetzt. Die israelischen Streitkräfte (IDF) zählen zu den am stärksten KI-integrierten Militärorganisationen weltweit. Israels Außenpolitik wird maßgeblich vom Sicherheitsimperativ geleitet – die Bedrohung durch staatliche und nicht-staatliche Akteure prägt alle sicherheitspolitischen Abwägungen. Enge Partner sind die USA und westliche Demokratien; gleichzeitig bestehen Spannungen mit großen Teilen der arabischen Welt sowie vor dem Hintergrund des Gaza-Konflikts mit Teilen der internationalen Gemeinschaft."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Israel unterstützt grundsätzlich die Entwicklung internationaler KI-Sicherheitsstandards für zivile Anwendungen und ist an einer Stärkung der Cybersicherheitsanforderungen an KI-Systeme interessiert. Einem IKISR, der auch sicherheitsrelevante und militärische KI-Systeme überprüfen oder zertifizieren darf, steht Israel jedoch ablehnend gegenüber. Nationale Sicherheitsinteressen müssen als ausdrücklicher Ausnahmetatbestand in der Resolution verankert werden. Israel wird sich für technische Sicherheitsstandards im zivilen Bereich einsetzen, auf eine starke Sicherheitsausnahme bestehen."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Israel verfügt über ein modernes Datenschutzrecht und befürwortet grundsätzlich den Schutz personenbezogener Daten. In der Praxis steht für Israel jedoch der Sicherheitsvorbehalt an erster Stelle: Datenschutz darf nachrichtendienstliche und sicherheitsbehördliche Arbeit nicht behindern. Den Herkunftsnachweis für Trainingsdaten und den Entschädigungsfonds für Urheber unterstützt Israel aus eigenem wirtschaftlichen Interesse – die israelische Kreativwirtschaft und Softwareindustrie haben ein Interesse an klar definierten Eigentumsrechten."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Klausel 5 ist für Israel der kritischste Punkt des Resolutionsentwurfs. Die IDF setzt KI vielfältig ein: KI-gestützte Zielerkennung, autonome Drohnen und die Iron-Dome-Raketenabwehr sind Teil des militärischen Kernbestands. Israel lehnt ein Verbot autonomer Waffensysteme ab und argumentiert, dass menschliche Kontrolle bei zeitkritischen Abwehrsituationen – etwa Raketenabwehr – technisch nicht realisierbar sei. Israel wird Änderungsanträge einbringen, die Verteidigungssysteme und Systeme in extremen Bedrohungslagen explizit aus dem Anwendungsbereich des Verbots ausnehmen."
+            }
+        ]
+    },
+    "Japan": {
+        "flag": "Flag_of_Japan-512x341.png",
+        "info": {
+            "header": "G7-Mitglied | Initiator des Hiroshima AI Process (2023)",
+            "rows": {
+                "Standort": "Ostasien",
+                "Bevölkerung": "124 Millionen",
+                "Hauptstadt": "Tokio",
+                "Sprache": "Japanisch",
+                "KI-Relevanz": "Sony, Toyota, Fujitsu, NEC, SoftBank Vision Fund"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Japan hat als G7-Präsident 2023 den „Hiroshima AI Process\" initiiert und damit eine der ersten G7-Vereinbarungen zur verantwortungsvollen KI-Governance geschaffen. Japan ist Heimat bedeutender KI-relevanter Konzerne wie Sony, Toyota, Fujitsu, NEC und des weltweit größten Technologieinvestmentfonds (SoftBank Vision Fund). Die japanische Gesellschaft sieht sich mit den Herausforderungen einer stark alternden Bevölkerung konfrontiert, für die KI-Anwendungen in Pflege, Medizin und Mobilität als gesellschaftlich notwendig gelten. Japan gilt als verlässlicher US-Verbündeter und verfolgt einen Ansatz des „Trusted AI\"."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Japan unterstützt die Einrichtung des IKISR und sieht in ihm eine Vertiefung und Institutionalisierung des Hiroshima-Prozesses auf UN-Ebene. Japan befürwortet eine ausgewogene Zusammensetzung des Rates aus technischen Experten, Ethikkommissionen und Regierungsvertretern. Es bevorzugt einen risikobasierten Ansatz, der zwischen Hochrisiko-KI (z.B. in kritischer Infrastruktur, Medizin) und weniger kritischen Anwendungen differenziert. Jährliche Risikoberichte entsprechen dem japanischen Ansatz der kontinuierlichen, lernenden Regulierung."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Japan hat eine bedeutende Kreativwirtschaft – Manga, Anime und Spieleindustrie –, deren Inhalte massenhaft und oft ohne Genehmigung für das Training internationaler KI-Modelle genutzt werden. Japan unterstützt daher den Herkunftsnachweis für Trainingsdaten und den Entschädigungsfonds, möchte jedoch auch sicherstellen, dass japanische KI-Unternehmen für die Entwicklung eigener Modelle weiterhin ausreichend Datenzugang haben. Im Datenschutz hat Japan das APPI (Act on the Protection of Personal Information) modernisiert und unterstützt das Recht auf Auskunft und Löschung."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Japan ist durch Artikel 9 seiner Nachkriegsverfassung in seiner militärischen Rolle beschränkt und unterstützt traditionell Abrüstung und friedliche Konfliktlösung. Japan befürwortet das Prinzip der menschlichen Kontrolle über letale Entscheidungen und unterstützt internationale Kontrollmechanismen für autonome Waffensysteme. Im Rahmen der jüngsten Sicherheitspolitikreformen erwägt Japan jedoch auch den Einsatz von KI für Verteidigungszwecke, weshalb ein vollständiges Verbot defensiver autonomer Systeme in dieser Form abgelehnt wird."
+            }
+        ]
+    },
+    "Kanada": {
+        "flag": "Flag_of_Canada-512x256.png",
+        "info": {
+            "header": "G7-Mitglied | Weltweites KI-Forschungszentrum",
+            "rows": {
+                "Standort": "Nordamerika",
+                "Bevölkerung": "40 Millionen",
+                "Hauptstadt": "Ottawa",
+                "Sprache": "Englisch, Französisch",
+                "KI-Relevanz": "Mila (Bengio), Vector Institute (Hinton), CIFAR"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Kanada ist Heimat einiger der einflussreichsten KI-Forscher der Welt: Yoshua Bengio (Université de Montréal) und Geoffrey Hinton (ehemals University of Toronto) gelten als „Väter des Deep Learning\" und Pioniere der modernen KI. Forschungszentren wie Mila in Montreal und das Vector Institute in Toronto machen Kanada zu einem globalen Referenzstandort für KI-Forschung. Mit dem vorgeschlagenen „Artificial Intelligence and Data Act\" (AIDA) verfolgt Kanada ein eigenes umfassendes KI-Regulierungsvorhaben. Als G7-Mitglied war Kanada aktiv am Hiroshima-KI-Prozess beteiligt und gilt als enger US-Verbündeter mit eigenem regulierungspolitischem Kurs."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Kanada ist einer der stärksten Befürworter einer internationalen KI-Governance-Architektur und unterstützt die Einrichtung des IKISR ausdrücklich. Yoshua Bengio, einer der weltweit bekanntesten Mahner vor KI-Risiken, gilt als Referenzfigur der kanadischen Position. Kanada befürwortet die Einbeziehung unabhängiger Experten, Ethikkommissionen und zivilgesellschaftlicher Organisationen in den Rat. Jährliche Risikoberichte und das internationale Prüf- und Zertifizierungssiegel werden als unverzichtbare Transparenzinstrumente unterstützt."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Kanada verfügt mit dem PIPEDA-Gesetz über ein etabliertes Datenschutzrecht und plant dessen Modernisierung (Bill C-27). Kanada tritt für starke Datenschutzrechte ein, unterstützt die verpflichtende Einholung von Einwilligungen sowie das Recht auf Datenlöschung und befürwortet datensparende Entwicklungsprinzipien. Im Urheberrecht unterstützt Kanada den Herkunftsnachweis für Trainingsdaten und den internationalen Entschädigungsfonds – insbesondere zum Schutz der kanadischen Kultur- und Kreativwirtschaft."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Kanada unterstützt Bemühungen zur Beschränkung autonomer Waffensysteme und ist aktives Mitglied der Campaign to Stop Killer Robots sowie der UN-Expertengruppe (GGE) zu autonomer Waffentechnologie. Kanada befürwortet ein Verbot vollautonomer letaler Systeme, bei denen Menschen keinerlei Kontrolle über tödliche Entscheidungen mehr ausüben. Es setzt sich dafür ein, dass die Kontrollmechanismen auch nicht-staatliche Akteure erfassen und Sanktionen bei Verstößen wirksam verhängt werden können."
+            }
+        ]
+    },
+    "Nigeria": {
+        "flag": "Flag_of_Nigeria-512x256.png",
+        "info": {
+            "header": "G20-Mitglied | Größte Volkswirtschaft Afrikas",
+            "rows": {
+                "Standort": "Westafrika",
+                "Bevölkerung": "220 Millionen",
+                "Hauptstadt": "Abuja",
+                "Sprache": "Englisch (500+ Lokalsprachen)",
+                "KI-Relevanz": "Paystack, Flutterwave, Andela; Silicon Lagoon Lagos"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Nigeria ist die bevölkerungsreichste Nation Afrikas und die größte afrikanische Volkswirtschaft. Lagos entwickelt sich zu einem bedeutenden Technologiezentrum – dem sogenannten „Silicon Lagoon\" – mit international bekannten Fintech-Start-ups wie Paystack und Flutterwave sowie dem IT-Talentförderungsunternehmen Andela. Nigeria ist Mitglied der Afrikanischen Union, der ECOWAS und des Commonwealth. Nigeria sieht sich als Interessenvertreter des afrikanischen Kontinents in internationalen Technologieverhandlungen und weist auf nachgewiesene Diskriminierung durch internationale KI-Systeme gegenüber afrikanischen Bevölkerungsgruppen hin – insbesondere bei Gesichtserkennung und algorithmischer Kreditvergabe."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Nigeria unterstützt den IKISR, fordert jedoch, dass afrikanische Staaten im Rat angemessen vertreten sind – idealerweise durch die Afrikanische Union als Verhandlungsblock. Die Standards des IKISR müssen auf globale Diversität ausgerichtet sein: KI-Systeme müssen auf ihre Leistung und Fairness gegenüber allen Bevölkerungsgruppen getestet werden, nicht nur gegenüber westlichen. Nigeria befürwortet die Einbeziehung afrikanischer zivilgesellschaftlicher Organisationen und die jährliche Risikoberichterstattung."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Nigeria setzt sich aktiv für die Berücksichtigung afrikanischer Inhalte im internationalen Entschädigungsfonds ein: Afrobeats, Nollywood und andere kulturelle Produktionen werden in KI-Trainingsdatensätzen häufig ohne Erlaubnis und ohne Vergütung verwendet. Den Herkunftsnachweis für Trainingsdaten betrachtet Nigeria als Schlüsselinstrument gegen Datenneokolonialismus. Im Datenschutz befürwortet Nigeria die Stärkung individueller Rechte und Einwilligungsanforderungen, die auch für Bevölkerungen mit begrenztem Datenzugang umsetzbar sind."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Nigeria ist mit regionalen Sicherheitsbedrohungen (Boko Haram, bewaffnete Gruppen im Norden und Nordosten) konfrontiert und setzt zunehmend KI-gestützte Überwachungstechnologien ein. Nigeria unterstützt grundsätzlich das Prinzip menschlicher Kontrolle bei tödlichen Entscheidungen, möchte jedoch Flexibilität für staatliche Sicherheitsoperationen gegen nicht-staatliche bewaffnete Gruppen. Es wird für einen Kompromisstext eintreten, der vollautonome Systeme ohne menschliche Aufsicht verbietet, ohne defensive staatliche Sicherheitsoperationen zu behindern."
             }
         ]
     },
@@ -588,34 +371,251 @@
             }
         ]
     },
-    "Japan": {
-        "flag": "Flag_of_Japan-512x341.png",
+    "Russland": {
+        "flag": "Flag_of_Russia-512x341.png",
         "info": {
-            "header": "G7-Mitglied | Initiator des Hiroshima AI Process (2023)",
+            "header": "Ständiges Mitglied des UN-Sicherheitsrats | G20",
             "rows": {
-                "Standort": "Ostasien",
-                "Bevölkerung": "124 Millionen",
-                "Hauptstadt": "Tokio",
-                "Sprache": "Japanisch",
-                "KI-Relevanz": "Sony, Toyota, Fujitsu, NEC, SoftBank Vision Fund"
+                "Standort": "Osteuropa / Nordasien",
+                "Bevölkerung": "145 Millionen",
+                "Hauptstadt": "Moskau",
+                "Sprache": "Russisch",
+                "KI-Relevanz": "Sberbank KI, Yandex; staatliche Rüstungs-KI"
             }
         },
         "paragraphs": [
             {
                 "title": "1. Internationale Beziehungen",
-                "text": "Japan hat als G7-Präsident 2023 den „Hiroshima AI Process\" initiiert und damit eine der ersten G7-Vereinbarungen zur verantwortungsvollen KI-Governance geschaffen. Japan ist Heimat bedeutender KI-relevanter Konzerne wie Sony, Toyota, Fujitsu, NEC und des weltweit größten Technologieinvestmentfonds (SoftBank Vision Fund). Die japanische Gesellschaft sieht sich mit den Herausforderungen einer stark alternden Bevölkerung konfrontiert, für die KI-Anwendungen in Pflege, Medizin und Mobilität als gesellschaftlich notwendig gelten. Japan gilt als verlässlicher US-Verbündeter und verfolgt einen Ansatz des „Trusted AI\"."
+                "text": "Russland ist ständiges Mitglied des UN-Sicherheitsrats und eine bedeutende Militärmacht, die intensiv in KI für Verteidigungs- und Überwachungszwecke investiert. Unternehmen wie Sberbank und Yandex entwickeln zivile KI-Anwendungen, während der staatliche Rüstungssektor KI-gestützte Systeme für Drohnen und Cyberoperationen erprobt. Russlands außenpolitische Linie ist von Misstrauen gegenüber westlich dominierten Institutionen geprägt. Der russische Einmarsch in die Ukraine hat Russland weitgehend aus internationalen Technologiegremien isoliert; umso mehr ist Russland bestrebt, seine Mitgestaltungsmacht über den UN-Rahmen zu wahren."
             },
             {
                 "title": "2. Haltung zu IKISR und Sicherheitsstandards",
-                "text": "Japan unterstützt die Einrichtung des IKISR und sieht in ihm eine Vertiefung und Institutionalisierung des Hiroshima-Prozesses auf UN-Ebene. Japan befürwortet eine ausgewogene Zusammensetzung des Rates aus technischen Experten, Ethikkommissionen und Regierungsvertretern. Es bevorzugt einen risikobasierten Ansatz, der zwischen Hochrisiko-KI (z.B. in kritischer Infrastruktur, Medizin) und weniger kritischen Anwendungen differenziert. Jährliche Risikoberichte entsprechen dem japanischen Ansatz der kontinuierlichen, lernenden Regulierung."
+                "text": "Russland steht der Einrichtung des IKISR skeptisch gegenüber und wird dessen Schaffung allenfalls dann akzeptieren, wenn er keine Durchgriffsrechte auf nationale KI-Systeme besitzt und die ständigen Mitglieder des UN-Sicherheitsrats eine herausgehobene Stellung einnehmen. Russland lehnt jegliche Überprüfung oder Zertifizierung seiner militärischen oder sicherheitsrelevanten KI-Systeme durch ein internationales Gremium kategorisch ab. Die Souveränität der Staaten in der Entwicklung und im Einsatz von KI ist für Russland ein nicht verhandelbares Grundprinzip, das in der Resolution ausdrücklich verankert werden muss."
             },
             {
                 "title": "3. Urheberrecht und Datenschutz",
-                "text": "Japan hat eine bedeutende Kreativwirtschaft – Manga, Anime und Spieleindustrie –, deren Inhalte massenhaft und oft ohne Genehmigung für das Training internationaler KI-Modelle genutzt werden. Japan unterstützt daher den Herkunftsnachweis für Trainingsdaten und den Entschädigungsfonds, möchte jedoch auch sicherstellen, dass japanische KI-Unternehmen für die Entwicklung eigener Modelle weiterhin ausreichend Datenzugang haben. Im Datenschutz hat Japan das APPI (Act on the Protection of Personal Information) modernisiert und unterstützt das Recht auf Auskunft und Löschung."
+                "text": "Russland hat nach dem Ausscheiden westlicher Plattformen eigene digitale Ökosysteme aufgebaut (VKontakte, RuTube, Gosuslugi) und verfolgt das Ziel weitgehender Datensouveränität. Internationale Datenschutzverpflichtungen werden nur akzeptiert, sofern sie die staatliche Nutzung von Daten für Sicherheitszwecke nicht einschränken. Einem internationalen Entschädigungsfonds für Urheber steht Russland neutral gegenüber, sofern er nicht als Hebel für westliche Sanktionen missbraucht werden kann."
             },
             {
                 "title": "4. KI in bewaffneten Konflikten",
-                "text": "Japan ist durch Artikel 9 seiner Nachkriegsverfassung in seiner militärischen Rolle beschränkt und unterstützt traditionell Abrüstung und friedliche Konfliktlösung. Japan befürwortet das Prinzip der menschlichen Kontrolle über letale Entscheidungen und unterstützt internationale Kontrollmechanismen für autonome Waffensysteme. Im Rahmen der jüngsten Sicherheitspolitikreformen erwägt Japan jedoch auch den Einsatz von KI für Verteidigungszwecke, weshalb ein vollständiges Verbot defensiver autonomer Systeme in dieser Form abgelehnt wird."
+                "text": "Ein Verbot autonomer Waffensysteme lehnt Russland grundsätzlich ab. Präsident Putin erklärte, derjenige, der die KI beherrsche, werde die Welt beherrschen. Im Kontext des Ukraine-Krieges setzt Russland selbst auf KI-gestützte Drohnen und Lenkraketen sowie auf KI-gestützte Desinformationskampagnen. Russland wird versuchen, Klausel 5 des Resolutionsentwurfs durch Änderungsanträge so zu schwächen, dass sie keine bindende Wirkung entfaltet. Notfalls kann Russland von seinem Vetorecht im UN-Sicherheitsrat Gebrauch machen, sofern eine verbindliche Resolution den Sicherheitsrat passieren müsste."
+            }
+        ]
+    },
+    "Schweiz": {
+        "flag": "Flag_of_Switzerland-512x512.png",
+        "info": {
+            "header": "Dauerhaft neutraler Staat | Sitz int. Organisationen",
+            "rows": {
+                "Standort": "Mitteleuropa",
+                "Bevölkerung": "8,7 Millionen",
+                "Hauptstadt": "Bern",
+                "Sprache": "Deutsch, Französisch, Italienisch, Rätoromanisch",
+                "KI-Relevanz": "ETH Zürich, EPFL; nDSG (2023); WEF, IKRK in Genf"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Die Schweiz ist ein dauerhaft neutrales Land und Heimat zahlreicher internationaler Organisationen: das UN-Büro in Genf, das Internationale Komitee vom Roten Kreuz (IKRK), die Weltgesundheitsorganisation (WHO) und das Weltwirtschaftsforum (WEF) haben ihren Sitz in der Schweiz. Die ETH Zürich und die EPFL Lausanne zählen zu den weltweit führenden Forschungseinrichtungen für KI. Die Schweiz besitzt ein modernes Datenschutzrecht (nDSG, seit 2023) und betrachtet sich als neutraler Mittler zwischen den technologischen Großmächten."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Die Schweiz unterstützt die Einrichtung des IKISR mit Nachdruck und bietet sich als Sitzstaat an: Genf wäre ein natürlicher Standort für den Rat, der bereits Heimat zahlreicher internationaler Normsetzungsgremien ist. Die Unabhängigkeit und Neutralität des IKISR ist für die Schweiz das entscheidende Qualitätsmerkmal: Der Rat muss frei von politischem Einfluss der Großmächte agieren und sowohl technische Expertise als auch ethische Perspektiven vereinen. Die Schweiz wird sich für starke institutionelle Unabhängigkeitsgarantien einsetzen."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Die Schweiz unterstützt den Herkunftsnachweis für Trainingsdaten und den internationalen Entschädigungsfonds. Mit dem revidierten Datenschutzgesetz (nDSG) sind die schweizerischen Anforderungen weitgehend mit den EU-Standards kompatibel; die Schweiz wird für deren internationale Anerkennung eintreten. Datensparsamkeit und informierte Einwilligung sind Grundpfeiler der schweizerischen Datenschutzphilosophie, die sie auf internationaler Ebene verteidigt."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Als dauerhaft neutrales Land und Depositar der Genfer Konventionen unterstützt die Schweiz das Verbot vollautonomer letaler Waffensysteme nachdrücklich. Das IKRK, mit Sitz in Genf, hat wiederholt auf die Unvereinbarkeit autonomer Waffentechnologien mit dem humanitären Völkerrecht hingewiesen. Die Schweiz wird für eine starke, klar formulierte Klausel 5 eintreten und die Schaffung eines wirksamen internationalen Kontrollmechanismus unter Einbeziehung des IKRK und humanitärer Experten befürworten."
+            }
+        ]
+    },
+    "Südafrika": {
+        "flag": "Flag_of_South_Africa-512x341.png",
+        "info": {
+            "header": "G20-Mitglied | BRICS-Mitglied",
+            "rows": {
+                "Standort": "Südliches Afrika",
+                "Bevölkerung": "60 Millionen",
+                "Hauptstadt": "Pretoria / Kapstadt",
+                "Sprache": "11 Amtssprachen (u.a. Zulu, Xhosa, Englisch)",
+                "KI-Relevanz": "POPIA (2021); AU KI-Strategie; 4IR-Initiative"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Südafrika ist die fortgeschrittenste Volkswirtschaft auf dem afrikanischen Kontinent und Mitglied der BRICS-Gruppe sowie der G20. Das Land verfügt über ein modernes Datenschutzgesetz (POPIA, 2021) und hat eine eigene KI-Strategie im Rahmen der Initiative „4IR\" (Fourth Industrial Revolution) formuliert. Südafrika arbeitet eng mit der Afrikanischen Union an einer kontinentweiten KI-Governance-Agenda zusammen. Historisch geprägt durch das Apartheid-Regime und dessen staatliche Massenüberwachung, ist Südafrika besonders sensibel gegenüber dem Missbrauch von KI für Diskriminierung und Überwachung."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Südafrika befürwortet die Einrichtung des IKISR und tritt – gemeinsam mit anderen afrikanischen Staaten – für eine starke afrikanische Repräsentation ein. Die Sicherheitsstandards des IKISR sollen Fragen der sozialen Gerechtigkeit, der Diskriminierungsfreiheit und der Zugänglichkeit für den Globalen Süden umfassen. Südafrika befürwortet die Vorlage jährlicher Berichte an die Generalversammlung sowie eine regelmäßige Überprüfungsklausel, um Standards an neue Entwicklungen anzupassen."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Südafrika unterstützt den Entschädigungsfonds für Urheber und den Herkunftsnachweis für Trainingsdaten. Das POPIA-konforme Datenschutzsystem Südafrikas deckt sich weitgehend mit den Anforderungen der Resolution; Südafrika wird sich für eine globale Anerkennung äquivalenter nationaler Datenschutzgesetze einsetzen, um Doppelregulierungen zu vermeiden. Die Stärkung der Rechte des Einzelnen gegenüber algorithmischen Entscheidungssystemen ist Südafrika ein besonderes Anliegen."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Angesichts seiner Geschichte als Friedensvermittler auf dem afrikanischen Kontinent und seiner Erfahrung mit staatlicher Unterdrückungstechnologie unterstützt Südafrika ein Verbot autonomer letaler Waffensysteme. Insbesondere im Kontext afrikanischer Konflikte, in denen KI-Drohnen zunehmend eingesetzt werden, befürwortet Südafrika starke Sanktionsmechanismen und internationale Kontrollinstanzen. Südafrika wird gemeinsam mit anderen afrikanischen Staaten eine einheitliche Position für Klausel 5 entwickeln."
+            }
+        ]
+    },
+    "Ukraine": {
+        "flag": "Flag_of_Ukraine-512x341.png",
+        "info": {
+            "header": "EU-Kandidatenstaat | NATO-Beitrittskandidat",
+            "rows": {
+                "Standort": "Osteuropa",
+                "Bevölkerung": "44 Millionen",
+                "Hauptstadt": "Kiew",
+                "Sprache": "Ukrainisch",
+                "KI-Relevanz": "Grammarly, GitLab (Gründer); KI im aktiven Kriegseinsatz"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Die Ukraine befindet sich seit dem russischen Angriffskrieg vom Februar 2022 im aktiven Kriegszustand. Gleichzeitig verfügt die Ukraine über einen bedeutenden IT-Sektor – Gründer von Grammarly und GitLab sind Ukrainer – und hat sich zum Testfeld für den KI-Einsatz in bewaffneten Konflikten entwickelt. Die Ukraine nutzt KI-Technologie für Drohnennavigation, Gesichtserkennung, Aufklärung und Zielidentifikation, u.a. in Zusammenarbeit mit westlichen Technologiepartnern. Die Ukraine positioniert sich klar im demokratischen Westbündnis und strebt EU- und NATO-Mitgliedschaft an."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Die Ukraine befürwortet den IKISR als Instrument zur Regulierung von KI-Risiken – insbesondere als Mittel zur Bekämpfung von KI-gestützter Desinformation und Propaganda, die Russland im Krieg massiv einsetzt. Eine unabhängige internationale Kontrollinstanz für KI-Risiken dient der ukrainischen Sicherheit. Die Ukraine besteht darauf, dass Staaten, die KI nachweislich für Angriffskriege einsetzen, von den Rechten und Privilegien des IKISR ausgeschlossen werden können."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Die Ukraine unterstützt den Herkunftsnachweis für Trainingsdaten und die Datenschutzprinzipien der Resolution. Ein besonderes Anliegen ist der Schutz vor KI-gestützten Deepfakes sowie der missbräuchlichen Nutzung von Bildern und personenbezogenen Daten ukrainischer Bürgerinnen und Bürger durch russische Behörden und Hacker. Der internationale Entschädigungsfonds sollte auch Schäden durch nicht-autorisierte Nutzung abdecken."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Klausel 5 ist für die Ukraine die heikelste des Resolutionsentwurfs. Die Ukraine setzt selbst autonome und halbautonome Drohnensysteme zur Verteidigung ihres Territoriums ein und ist auf diese Technologie angewiesen. Ein vollständiges Verbot autonomer Waffensysteme würde die Verteidigungsfähigkeit der Ukraine gegenüber einem übermächtigen Angreifer einschränken. Die Ukraine wird eine Ausnahme für Verteidigungseinsätze gegen bewaffnete Aggression anstreben oder die Sanktionsklausel so ausgestalten, dass sie ausschließlich gegen angreifende Staaten gerichtet ist."
+            }
+        ]
+    },
+    "Uruguay": {
+        "flag": "Flag_of_Uruguay-512x341.png",
+        "info": {
+            "header": "Mercosur-Mitglied | Digitaler Vorreiter Lateinamerikas",
+            "rows": {
+                "Standort": "Südamerika",
+                "Bevölkerung": "3,5 Millionen",
+                "Hauptstadt": "Montevideo",
+                "Sprache": "Spanisch",
+                "KI-Relevanz": "Nationales Datenschutzgesetz; Plan Ceibal (digitale Bildung)"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Uruguay ist ein kleines Land mit einer für die Region ungewöhnlich stabilen Demokratie und einer fortschrittlichen Digitalpolitik. Es war eines der ersten lateinamerikanischen Länder mit einem Datenschutzgesetz und verfolgt eine engagierte Digital-Governance-Strategie. Mit dem Programm „Plan Ceibal\" hat Uruguay landesweite digitale Bildung pioniert. Uruguay ist aktives Mitglied der Vereinten Nationen und des Mercosur-Handelsblocks und bekannt für seinen prinzipientreuen und konstruktiven Beitrag in multilateralen Verhandlungen."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Uruguay unterstützt die Einrichtung des IKISR ausdrücklich und betont die Notwendigkeit, auch kleine und mittelgroße Staaten in die Governance-Strukturen einzubinden. Ein rein von Großmächten dominierter Rat würde den Interessen der Mehrheit der UN-Mitgliedsstaaten nicht gerecht werden. Uruguay befürwortet die Einbeziehung zivilgesellschaftlicher Organisationen und unabhängiger Experten sowie die Veröffentlichung jährlicher Berichte als Instrument demokratischer Rechenschaftspflicht."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Uruguay verfügt über solide, international anerkannte Datenschutzgesetze und unterstützt die Datenschutzklauseln der Resolution vollumfänglich. Das Recht auf Dateneinsicht, -berichtigung und -löschung entspricht dem uruguayischen Datenschutzstandard. Urheberrechtliche Transparenz bei Trainingsdaten und der internationale Entschädigungsfonds werden befürwortet: Sie schützen kleine Kulturnationen vor unkompensierter Nutzung ihrer kreativen Werke durch multinationale KI-Konzerne."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Uruguay unterstützt ein Verbot autonomer Waffensysteme und internationale Kontrollmechanismen. Als Land ohne aktive militärische Konflikte und mit einer starken Tradition der UN-Friedensmissionen (u.a. MINUSTAH in Haiti) vertritt Uruguay eine konsequent humanitäre Linie: Tödliche Entscheidungen dürfen niemals allein von Algorithmen getroffen werden. Uruguay wird für eine starke und klar formulierte Klausel 5 eintreten und Sanktionen gegen Verstöße befürworten."
+            }
+        ]
+    },
+    "USA": {
+        "flag": "Flag_of_United_States-512x269.png",
+        "info": {
+            "header": "Ständiges Mitglied des UN-Sicherheitsrats | G7",
+            "rows": {
+                "Standort": "Nordamerika",
+                "Bevölkerung": "340 Millionen",
+                "Hauptstadt": "Washington D.C.",
+                "Sprache": "Englisch",
+                "KI-Relevanz": "OpenAI, Google DeepMind, Meta AI, Microsoft"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Die USA sind die führende KI-Nation der Welt und Heimat der bedeutendsten KI-Unternehmen: OpenAI, Google, Anthropic, Microsoft und Apple prägen die globale KI-Entwicklung maßgeblich. Als ständiges Mitglied des UN-Sicherheitsrats besitzen die USA erheblichen Einfluss auf internationale Regelungen. Präsident Biden erließ 2023 eine wegweisende „Executive Order on AI Safety\", die erste nationale Rahmenvorgabe dieser Art. Im geopolitischen Wettbewerb um KI-Führerschaft – insbesondere mit China – sehen die USA technologische Überlegenheit als strategischen Imperativ. Wichtige Partner in Fragen der KI-Governance sind die G7-Staaten, das Vereinigte Königreich, Kanada und Australien (Five Eyes/AUKUS)."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Die USA haben die Bletchley-Erklärung von 2023 mitunterzeichnet und sich dem Hiroshima-Prozess der G7 verpflichtet. Einem verbindlichen internationalen Gremium wie dem IKISR stehen sie jedoch skeptisch gegenüber: Ein solches Organ dürfe weder die Wettbewerbsfähigkeit amerikanischer Unternehmen beschränken noch die nationale Sicherheit gefährden. Die USA befürworten stattdessen einen auf freiwilligen Standards basierenden Ansatz mit Best-Practice-Empfehlungen. Sollte der IKISR eingerichtet werden, bestehen die USA auf einer Sitzverteilung, die die technologische Kapazität der Mitgliedsstaaten widerspiegelt, sowie auf einem starken US-amerikanischen Mitspracherecht – idealerweise einem De-facto-Vetorecht bei sicherheitsrelevanten Entscheidungen."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Die USA verfügen über eine bedeutende Kreativwirtschaft (Hollywood, Verlagswesen, Musikindustrie), die ein starkes Interesse an der Durchsetzung von Urheberrechten bei Trainingsdaten hat. Gleichzeitig argumentieren die großen Tech-Konzerne, dass die Nutzung frei zugänglicher Daten zum Training unter die Doktrin des „Fair Use\" falle. Die USA werden sich für ein ausgewogenes Urheberrechtsregime einsetzen, das Rechtssicherheit für Entwickler schafft, ohne Urheber vollständig zu übergehen. Im Datenschutz fehlt den USA bislang ein bundeseinheitliches Gesetz; internationale Verpflichtungen werden nur in abgeschwächter Form akzeptiert."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Das US-Militär betreibt umfangreiche Forschung und Entwicklung im Bereich militärischer KI – darunter autonome Drohnen und KI-gestützte Aufklärungssysteme. Ein vollständiges Verbot autonomer Waffensysteme lehnen die USA ab, da sie darin einen unzumutbaren militärischen Nachteil gegenüber Akteuren sehen, die sich nicht an solche Verbote halten würden. Sie befürworten stattdessen das Prinzip „meaningful human control\": Bei tödlichen Entscheidungen muss stets ein Mensch im Entscheidungsprozess beteiligt sein. Internationale Kontrollmechanismen unterstützen die USA nur, wenn diese nicht in die Souveränität und militärische Einsatzfähigkeit eingreifen."
+            }
+        ]
+    },
+    "Vereinigte Arabische Emirate": {
+        "flag": "Flag_of_United_Arab_Emirates-512x256.png",
+        "info": {
+            "header": "G20-Mitglied | Erster Staat mit KI-Minister (2017)",
+            "rows": {
+                "Standort": "Arabische Halbinsel",
+                "Bevölkerung": "10 Millionen",
+                "Hauptstadt": "Abu Dhabi",
+                "Sprache": "Arabisch",
+                "KI-Relevanz": "Falcon AI (TII), MBZUAI; UAE AI Strategy 2031"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Die VAE sind ein globaler Vorreiter in der staatlichen KI-Politik: Als erstes Land der Welt ernannten sie 2017 einen eigenen Minister für Künstliche Intelligenz. Die nationale KI-Strategie 2031 zielt darauf ab, die VAE zu einem der führenden KI-Staaten weltweit zu machen. Technologiezentren in Dubai und Abu Dhabi sowie die Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) und das Falcon-Sprachmodell (Technology Innovation Institute) unterstreichen diesen Anspruch. Die VAE pflegen enge Wirtschaftsbeziehungen zu den USA, China und Europa und verfolgen eine pragmatische, wirtschaftsorientierte Außenpolitik."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Die VAE unterstützen die Einrichtung des IKISR und befürworten internationale Standards als Grundlage für Vertrauen in KI-Systeme. Gleichzeitig betonen sie, dass Regulierung die globale KI-Innovation nicht ausbremsen darf. Als aufstrebende KI-Nation fordern die VAE eine Sitzverteilung im Rat, die nicht nur traditionelle Großmächte, sondern auch technologisch ambitionierte Schwellenländer und aufstrebende KI-Nationen berücksichtigt. Zertifizierungspflichten sind für die VAE akzeptabel, sofern sie auf klaren, praxisnahen Standards basieren."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Die VAE verfügen über ein modernes Datenschutzrecht (PDPL, 2021) und unterstützen Transparenz bei Trainingsdaten. Im Urheberrecht befürworten die VAE den Herkunftsnachweis, betonen aber, dass ein internationaler Entschädigungsfonds keine unverhältnismäßigen wirtschaftlichen Barrieren für aufstrebende KI-Nationen errichten darf. In Fragen der Privatsphäre gelten die VAE als weniger restriktiv als westliche Demokratien; sie werden moderate, praxistaugliche Datenschutzstandards befürworten."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Die VAE sind in regionale Konflikte involviert (u.a. Jemen) und setzen dabei KI-gestützte Drohnentechnologie ein. Ein striktes Verbot autonomer Waffensysteme lehnen sie ab und sprechen sich für ein Prinzip der „verantwortungsvollen KI-Nutzung\" im Militär aus, das nationale Souveränität und regionale Sicherheitsbedürfnisse respektiert. Die VAE werden sich für flexible Definitionen und nationale Ausnahmeregelungen in Klausel 5 einsetzen."
+            }
+        ]
+    },
+    "Vereinigtes Königreich": {
+        "flag": "Flag_of_United_Kingdom-512x256.png",
+        "info": {
+            "header": "Ständiges Mitglied des UN-Sicherheitsrats | G7",
+            "rows": {
+                "Standort": "Nordwesteuropa",
+                "Bevölkerung": "68 Millionen",
+                "Hauptstadt": "London",
+                "Sprache": "Englisch",
+                "KI-Relevanz": "DeepMind, Arm Holdings; AI Safety Institute (2023)"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. Internationale Beziehungen",
+                "text": "Das Vereinigte Königreich hat sich nach dem Brexit als eigenständiger Akteur in der internationalen KI-Politik positioniert: 2023 richtete die britische Regierung das weltweit erste AI Safety Institute ein und veranstaltete den bahnbrechenden AI Safety Summit auf Schloss Bletchley Park. DeepMind (Teil von Google), Arm Holdings und zahlreiche KI-Start-ups machen London zu einem der wichtigsten KI-Zentren der Welt. Das Vereinigte Königreich verfolgt einen „pro-innovation\"-Ansatz – als bewussten Gegenentwurf zum stärker regulierenden EU AI Act – und möchte sich als internationaler Regulierungsstandort positionieren."
+            },
+            {
+                "title": "2. Haltung zu IKISR und Sicherheitsstandards",
+                "text": "Das Vereinigte Königreich ist grundsätzlich offen für ein internationales KI-Governance-Gremium und bewirbt sich möglicherweise als Sitzstaat für das IKISR-Sekretariat. Es betont, dass der IKISR Innovation nicht behindern darf. Das Vereinigte Königreich befürwortet einen risikobasierten Ansatz, bei dem besonders kritische KI-Systeme einer stärkeren Regulierung unterliegen; verbindliche Zertifizierungspflichten sollen auf Hochrisiko-Anwendungen beschränkt bleiben. Die Erfahrungen des britischen AI Safety Institute sollen in die Arbeit des IKISR einfließen."
+            },
+            {
+                "title": "3. Urheberrecht und Datenschutz",
+                "text": "Das Vereinigte Königreich hat eine bedeutende Kreativ- und Verlagsbranche und befürwortet Transparenzanforderungen bei Trainingsdaten sowie den Entschädigungsfonds für Urheber. Im Datenschutz hat Großbritannien nach dem Brexit das britische GDPR (UK GDPR) weitgehend übernommen und setzt auf eine pragmatisch-innovationsfreundliche Anwendung. Es unterstützt das Einwilligungsprinzip und das Recht auf Datenlöschung, möchte aber den Rahmen nicht unnötig restriktiv gestalten."
+            },
+            {
+                "title": "4. KI in bewaffneten Konflikten",
+                "text": "Das Vereinigte Königreich verfügt über moderne militärische KI-Programme und steht einem vollständigen Verbot autonomer Waffensysteme skeptisch gegenüber. Es unterstützt das Prinzip der menschlichen Kontrolle bei tödlichen Entscheidungen, möchte aber Spielraum für teilautonome Verteidigungs- und Aufklärungssysteme behalten. Als Gründungsmitglied der NATO und enger US-Verbündeter wird sich das Vereinigte Königreich bei Klausel 5 eng mit Washington abstimmen."
             }
         ]
     }
