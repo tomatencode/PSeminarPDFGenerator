@@ -276,6 +276,6 @@ def generate_pdf(json_path: str, output_path: str, flags_dir: str) -> None:
 
 if __name__ == '__main__':
     json_path   = sys.argv[1] if len(sys.argv) > 1 else 'pharagraphs.json'
-    output_path = sys.argv[2] if len(sys.argv) > 2 else 'out/output.pdf'
+    output_path = sys.argv[2] if len(sys.argv) > 2 else 'output.pdf'
     flags_dir   = sys.argv[3] if len(sys.argv) > 3 else 'flags'
     generate_pdf(json_path, output_path, flags_dir)
