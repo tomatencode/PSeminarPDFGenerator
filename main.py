@@ -187,8 +187,8 @@ def build_story(data: dict, flags_dir: str) -> list:
                 ('ALIGN',         (2, 0), (2,  0),  'RIGHT'),
                 ('TOPPADDING',    (0, 0), (-1, -1), 0),
                 ('BOTTOMPADDING', (0, 0), (-1, -1), 0),
-                ('LEFTPADDING',   (0, 2), (-1, -1), 0),
-                ('RIGHTPADDING',  (0, 2), (-1, -1), 0),
+                ('LEFTPADDING',   (0, 0), (-1, -1), 0),
+                ('RIGHTPADDING',  (0, 0), (-1, -1), 0),
             ]))
             story.append(outer)
         elif info_table:
