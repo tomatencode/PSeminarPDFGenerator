@@ -194,14 +194,15 @@ def build_story(data: dict, flags_dir: str) -> list:
 
         if info_table and has_flag:
             flag_img    = _flag_image(flag_path)
-            gap         = CONTENT_W - INFO_TABLE_W - FLAG_COL_W
+            gutter      = 0.4 * cm
+            gap         = CONTENT_W - INFO_TABLE_W - FLAG_COL_W - 2 * gutter
             outer = Table(
-                [[info_table, '', flag_img]],
-                colWidths=[INFO_TABLE_W, gap, FLAG_COL_W],
+                [['', info_table, '', flag_img, '']],
+                colWidths=[gutter, INFO_TABLE_W, gap, FLAG_COL_W, gutter],
             )
             outer.setStyle(TableStyle([
                 ('VALIGN',        (0, 0), (-1, -1), 'TOP'),
-                ('ALIGN',         (2, 0), (2,  0),  'RIGHT'),
+                ('ALIGN',         (3, 0), (3,  0),  'RIGHT'),
                 ('TOPPADDING',    (0, 0), (-1, -1), 0),
                 ('BOTTOMPADDING', (0, 0), (-1, -1), 0),
                 ('LEFTPADDING',   (0, 0), (-1, -1), 0),

@@ -1,51 +1,51 @@
 {
-    "Germany": {
+    "Deutschland": {
         "flag": "germany.png",
         "info": {
-            "header": "Permanent Member of the UN Security Council",
+            "header": "Ständiges Mitglied des UN-Sicherheitsrats",
             "rows": {
-                "Location": "Central Europe",
-                "Population": "83 million",
+                "Location": "Mitteleuropa",
+                "Population": "83 Millionen",
                 "Capital": "Berlin",
-                "Language": "German",
-                "Religions": "Christians (57%), Non-religious (37%), Muslims (5%)"
+                "Language": "Deutsch",
+                "Religions": "Christen (57%), Konfessionslose (37%), Muslime (5%)"
             }
         },
         "paragraphs": [
             {
-                "title": "1. International Relations",
-                "text": "Germany is a founding member of the European Union and a permanent observer at the United Nations. As one of the world's largest economies, Germany plays a central role in international diplomacy and conflict resolution."
+                "title": "1. Internationale Beziehungen",
+                "text": "Deutschland ist Gründungsmitglied der Europäischen Union und ständiger Beobachter bei den Vereinten Nationen. Als eine der größten Volkswirtschaften der Welt spielt Deutschland eine zentrale Rolle in der internationalen Diplomatie und Konfliktlösung."
             },
             {
-                "title": "2. Position on the Conflict",
-                "text": "Germany strongly supports a two-state solution to the conflict. It advocates for peaceful negotiations and calls on all parties to respect international law and human rights obligations."
+                "title": "2. Haltung zum Konflikt",
+                "text": "Deutschland unterstützt nachdrücklich eine Zwei-Staaten-Lösung für den Konflikt. Es tritt für friedliche Verhandlungen ein und fordert alle Parteien auf, das Völkerrecht und die Menschenrechtsverpflichtungen zu respektieren."
             },
             {
-                "title": "Security and Stability",
-                "text": "Germany believes that lasting peace can only be achieved through dialogue and mutual recognition. It supports UN peacekeeping missions and humanitarian aid efforts in the region."
+                "title": "Sicherheit und Stabilität",
+                "text": "Deutschland ist der Überzeugung, dass dauerhafter Frieden nur durch Dialog und gegenseitige Anerkennung erreicht werden kann. Es unterstützt UN-Friedensmissionen und humanitäre Hilfseinsätze in der Region."
             }
         ]
     },
-    "France": {
+    "Frankreich": {
         "flag": "france.png",
         "info": {
-            "header": "Permanent Member of the UN Security Council",
+            "header": "Ständiges Mitglied des UN-Sicherheitsrats",
             "rows": {
-                "Location": "Western Europe",
-                "Population": "68 million",
+                "Location": "Westeuropa",
+                "Population": "68 Millionen",
                 "Capital": "Paris",
-                "Language": "French",
-                "Religions": "Christians (50%), Non-religious (40%), Muslims (8%)"
+                "Language": "Französisch",
+                "Religions": "Christen (50%), Konfessionslose (40%), Muslime (8%)"
             }
         },
         "paragraphs": [
             {
-                "title": "1. International Relations",
-                "text": "France is a permanent member of the UN Security Council and a leading voice in European and global affairs. France maintains close diplomatic ties across the Middle East and North Africa."
+                "title": "1. Internationale Beziehungen",
+                "text": "Frankreich ist ständiges Mitglied des UN-Sicherheitsrats und eine führende Stimme in europäischen und globalen Angelegenheiten. Frankreich pflegt enge diplomatische Beziehungen im Nahen Osten und in Nordafrika."
             },
             {
-                "title": "2. Position on the Conflict",
-                "text": "France supports an immediate ceasefire and the resumption of direct negotiations. It has historically backed a two-state solution and the creation of a Palestinian state based on the 1967 borders."
+                "title": "2. Haltung zum Konflikt",
+                "text": "Frankreich unterstützt eine sofortige Waffenruhe und die Wiederaufnahme direkter Verhandlungen. Es hat historisch eine Zwei-Staaten-Lösung und die Schaffung eines palästinensischen Staates auf der Grundlage der Grenzen von 1967 befürwortet."
             }
         ]
     }
