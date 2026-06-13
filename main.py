@@ -68,14 +68,24 @@ def _styles():
 
 
 def _flag_image(path):
-    """Return an Image flowable that fits within FLAG_COL_W × 4 cm."""
+    """Return an Image flowable (inside a thin gray border) that fits within FLAG_COL_W × 4 cm."""
     img = Image(path)
     nat_w, nat_h = img.imageWidth, img.imageHeight
     max_w, max_h = FLAG_COL_W - 0.2 * cm, 4.0 * cm
     ratio = min(max_w / nat_w, max_h / nat_h)
     img.drawWidth  = nat_w * ratio
     img.drawHeight = nat_h * ratio
-    return img
+
+    # Wrap in a single-cell table so we can draw a border without PIL dependency
+    border = Table([[img]], colWidths=[img.drawWidth])
+    border.setStyle(TableStyle([
+        ('BOX',            (0, 0), (-1, -1), 1, GRAY),
+        ('TOPPADDING',     (0, 0), (-1, -1), 0),
+        ('BOTTOMPADDING',  (0, 0), (-1, -1), 0),
+        ('LEFTPADDING',    (0, 0), (-1, -1), 0),
+        ('RIGHTPADDING',   (0, 0), (-1, -1), 0),
+    ]))
+    return border
 
 
 def _build_info_table(info: dict, styles) -> Table | None:
