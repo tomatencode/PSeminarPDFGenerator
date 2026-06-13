@@ -62,6 +62,7 @@ def _styles():
         leading=13,
         spaceAfter=6,
         alignment=TA_JUSTIFY,
+        leftIndent=10,
     )
     return page_header, title, section, body
 
