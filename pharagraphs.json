@@ -1,0 +1,52 @@
+{
+    "Germany": {
+        "flag": "germany.png",
+        "info": {
+            "header": "Permanent Member of the UN Security Council",
+            "rows": {
+                "Location": "Central Europe",
+                "Population": "83 million",
+                "Capital": "Berlin",
+                "Language": "German",
+                "Religions": "Christians (57%), Non-religious (37%), Muslims (5%)"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. International Relations",
+                "text": "Germany is a founding member of the European Union and a permanent observer at the United Nations. As one of the world's largest economies, Germany plays a central role in international diplomacy and conflict resolution."
+            },
+            {
+                "title": "2. Position on the Conflict",
+                "text": "Germany strongly supports a two-state solution to the conflict. It advocates for peaceful negotiations and calls on all parties to respect international law and human rights obligations."
+            },
+            {
+                "title": "Security and Stability",
+                "text": "Germany believes that lasting peace can only be achieved through dialogue and mutual recognition. It supports UN peacekeeping missions and humanitarian aid efforts in the region."
+            }
+        ]
+    },
+    "France": {
+        "flag": "france.png",
+        "info": {
+            "header": "Permanent Member of the UN Security Council",
+            "rows": {
+                "Location": "Western Europe",
+                "Population": "68 million",
+                "Capital": "Paris",
+                "Language": "French",
+                "Religions": "Christians (50%), Non-religious (40%), Muslims (8%)"
+            }
+        },
+        "paragraphs": [
+            {
+                "title": "1. International Relations",
+                "text": "France is a permanent member of the UN Security Council and a leading voice in European and global affairs. France maintains close diplomatic ties across the Middle East and North Africa."
+            },
+            {
+                "title": "2. Position on the Conflict",
+                "text": "France supports an immediate ceasefire and the resumption of direct negotiations. It has historically backed a two-state solution and the creation of a Palestinian state based on the 1967 borders."
+            }
+        ]
+    }
+}
