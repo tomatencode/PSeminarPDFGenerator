@@ -16,7 +16,7 @@ from reportlab.lib.enums import TA_JUSTIFY
 TITLE_COLOUR    = HexColor('#5B8EC4')
 SECTION_HEADER  = HexColor("#096381")
 GRAY            = HexColor("#6A6A6A")
-TABLE_HEADER_BG = HexColor("#358D9B")
+TABLE_HEADER_BG = HexColor("#096381")
 ROW_LIGHT       = HexColor("#EBF8F9")
 
 # ── Page geometry ──────────────────────────────────────────────────────────────
