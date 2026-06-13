@@ -1,6 +1,6 @@
 {
     "USA": {
-        "flag": "usa.png",
+        "flag": "Flag_of_United_States-512x269.png",
         "info": {
             "header": "Ständiges Mitglied des UN-Sicherheitsrats | G7",
             "rows": {
@@ -31,7 +31,7 @@
         ]
     },
     "China": {
-        "flag": "china.png",
+        "flag": "Flag_of_Peoples_Republic_of_China-512x341.png",
         "info": {
             "header": "Ständiges Mitglied des UN-Sicherheitsrats | G20",
             "rows": {
@@ -62,7 +62,7 @@
         ]
     },
     "Indien": {
-        "flag": "india.png",
+        "flag": "Flag_of_India-512x341.png",
         "info": {
             "header": "G20-Mitglied | Bevölkerungsreichstes Land der Welt",
             "rows": {
@@ -93,7 +93,7 @@
         ]
     },
     "Kanada": {
-        "flag": "canada.png",
+        "flag": "Flag_of_Canada-512x256.png",
         "info": {
             "header": "G7-Mitglied | Weltweites KI-Forschungszentrum",
             "rows": {
@@ -124,7 +124,7 @@
         ]
     },
     "Russland": {
-        "flag": "russia.png",
+        "flag": "Flag_of_Russia-512x341.png",
         "info": {
             "header": "Ständiges Mitglied des UN-Sicherheitsrats | G20",
             "rows": {
@@ -155,7 +155,7 @@
         ]
     },
     "Israel": {
-        "flag": "israel.png",
+        "flag": "Flag_of_Israel-512x371.png",
         "info": {
             "header": "OECD-Mitglied | Start-Up Nation",
             "rows": {
@@ -186,7 +186,7 @@
         ]
     },
     "Deutschland": {
-        "flag": "germany.png",
+        "flag": "Flag_of_Germany-512x307(1).png",
         "info": {
             "header": "EU-Mitglied | G7-Mitglied",
             "rows": {
@@ -217,7 +217,7 @@
         ]
     },
     "Frankreich": {
-        "flag": "france.png",
+        "flag": "Flag_of_France-512x341(1).png",
         "info": {
             "header": "Ständiges Mitglied des UN-Sicherheitsrats | G7",
             "rows": {
@@ -248,7 +248,7 @@
         ]
     },
     "Vereinigtes Königreich": {
-        "flag": "uk.png",
+        "flag": "Flag_of_United_Kingdom-512x256.png",
         "info": {
             "header": "Ständiges Mitglied des UN-Sicherheitsrats | G7",
             "rows": {
@@ -279,7 +279,7 @@
         ]
     },
     "Australien": {
-        "flag": "australia.png",
+        "flag": "Flag_of_Australia-512x256.png",
         "info": {
             "header": "G20-Mitglied | AUKUS-Mitglied | Five Eyes",
             "rows": {
@@ -310,7 +310,7 @@
         ]
     },
     "Brasilien": {
-        "flag": "brazil.png",
+        "flag": "Flag_of_Brazil-512x358.png",
         "info": {
             "header": "G20-Mitglied | Größte Volkswirtschaft Lateinamerikas",
             "rows": {
@@ -341,7 +341,7 @@
         ]
     },
     "Uruguay": {
-        "flag": "uruguay.png",
+        "flag": "Flag_of_Uruguay-512x341.png",
         "info": {
             "header": "Mercosur-Mitglied | Digitaler Vorreiter Lateinamerikas",
             "rows": {
@@ -372,7 +372,7 @@
         ]
     },
     "Nigeria": {
-        "flag": "nigeria.png",
+        "flag": "Flag_of_Nigeria-512x256.png",
         "info": {
             "header": "G20-Mitglied | Größte Volkswirtschaft Afrikas",
             "rows": {
@@ -403,7 +403,7 @@
         ]
     },
     "Südafrika": {
-        "flag": "south_africa.png",
+        "flag": "Flag_of_South_Africa-512x341.png",
         "info": {
             "header": "G20-Mitglied | BRICS-Mitglied",
             "rows": {
@@ -434,7 +434,7 @@
         ]
     },
     "Schweiz": {
-        "flag": "switzerland.png",
+        "flag": "Flag_of_Switzerland-512x512.png",
         "info": {
             "header": "Dauerhaft neutraler Staat | Sitz int. Organisationen",
             "rows": {
@@ -465,7 +465,7 @@
         ]
     },
     "Vereinigte Arabische Emirate": {
-        "flag": "uae.png",
+        "flag": "Flag_of_United_Arab_Emirates-512x256.png",
         "info": {
             "header": "G20-Mitglied | Erster Staat mit KI-Minister (2017)",
             "rows": {
@@ -496,7 +496,7 @@
         ]
     },
     "Estland": {
-        "flag": "estonia.png",
+        "flag": "Flag_of_Estonia-512x326.png",
         "info": {
             "header": "EU-Mitglied | NATO-Mitglied | Digitale Vorzeigegesellschaft",
             "rows": {
@@ -527,7 +527,7 @@
         ]
     },
     "Ukraine": {
-        "flag": "ukraine.png",
+        "flag": "Flag_of_Ukraine-512x341.png",
         "info": {
             "header": "EU-Kandidatenstaat | NATO-Beitrittskandidat",
             "rows": {
@@ -558,7 +558,7 @@
         ]
     },
     "Norwegen": {
-        "flag": "norway.png",
+        "flag": "Flag_of_Norway-512x371.png",
         "info": {
             "header": "NATO-Mitglied | EWR-Mitglied",
             "rows": {
@@ -589,7 +589,7 @@
         ]
     },
     "Japan": {
-        "flag": "japan.png",
+        "flag": "Flag_of_Japan-512x341.png",
         "info": {
             "header": "G7-Mitglied | Initiator des Hiroshima AI Process (2023)",
             "rows": {
